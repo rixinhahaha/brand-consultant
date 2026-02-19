@@ -1,0 +1,4 @@
+{"location": "ad_content_generator.py", "message": "env_before_any_load", "data": {"has_key": false, "key_len": 0, "dotenv_exists": true}, "hypothesisId": "A", "timestamp": 1770963251690.4377}
+{"location": "ad_content_generator.py", "message": "dotenv_import_failed", "data": {"dotenv_installed": false}, "hypothesisId": "A", "timestamp": 1770963251690.556}
+{"location": "ad_content_generator.py", "message": "env_before_langchain", "data": {"has_key": false, "key_len": 0}, "hypothesisId": "A", "timestamp": 1770963251690.604}
+{"location": "ad_content_generator.py", "message": "before_first_invoke", "data": {"has_ANTHROPIC_API_KEY": false, "key_len": 0}, "hypothesisId": "B", "timestamp": 1770963272345.9048}
