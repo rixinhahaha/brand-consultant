@@ -99,7 +99,7 @@ Each variation markdown contains a paste-ready generation prompt plus a full pro
 ## Project Structure
 
 ```
-clipping-agent/
+brand-agency/
   agents/
     __init__.py
     brand_consultant.py          # Orchestrator prompt and agent registry
