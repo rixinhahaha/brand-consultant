@@ -3,6 +3,7 @@ anthropic==0.79.0
 anyio==4.12.1
 certifi==2026.1.4
 charset-normalizer==3.4.4
+claude-agent-sdk==0.1.38
 distro==1.9.0
 docstring_parser==0.17.0
 h11==0.16.0
