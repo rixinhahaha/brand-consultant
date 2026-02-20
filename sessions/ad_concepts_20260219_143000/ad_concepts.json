@@ -1,0 +1,532 @@
+{
+  "brand": "ALEX AND ANI",
+  "generated_date": "2026-02-19",
+  "session_id": "ad_concepts_20260219_143000",
+  "production_notes": "All creative should be shot vertically (9:16) on warm-toned backgrounds — cream, champagne, or natural skin tones. Primary color reference is warm gold (#ab8c52); avoid cool silvers, stark whites, or clinical lighting. Music should lean acoustic-ambient or soft indie-folk for emotional content; upbeat synth-pop for collab/nostalgia content. Typography should pair a clean serif (for symbol names or headlines) with a minimal sans-serif for body copy. Every shot should include at least one wrist or hand model wearing multiple bangles — stacking is non-negotiable as a visual cue. Never shoot product on plain white backgrounds in paid social contexts. Always include on-screen text captions for sound-off environments.",
+  "concepts": [
+    {
+      "id": 1,
+      "title": "What Your Charm Says About You",
+      "content_type": "Reel",
+      "format": "Instagram Reel / TikTok Video",
+      "hook": "Close-up of a hand slowly sliding a charm bangle onto a wrist. Text fades in: 'This isn't just a bracelet.' Cut immediately to a woman looking directly into camera with quiet confidence.",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Extreme close-up, overhead: A single gold charm bangle — anchor motif — resting on a cream surface. A woman's hand (natural nails, warm skin tone) reaches in and lifts it slowly. Soft natural light from a window casts a warm shadow.",
+          "audio_or_text": "Ambient sound: soft fabric rustle, then a faint metallic chime as bangle is lifted. Text overlay fades in: 'This isn't just a bracelet.'",
+          "duration_seconds": 3
+        },
+        {
+          "scene": 2,
+          "visual": "Medium shot, eye-level: The same woman (late 20s, casual but intentional style — linen shirt, layered necklaces) slides the anchor bangle onto her wrist alongside two others already there. She glances at her wrist with a small, private smile.",
+          "audio_or_text": "Soft acoustic guitar loop begins. VO (warm, unhurried female voice): 'The anchor. It means you're someone who stays grounded — no matter what.'",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 3,
+          "visual": "Quick-cut montage: three separate close-up shots, each 1 second — (a) a moon charm bangle being placed on a wrist, (b) a star charm bangle stacked on top, (c) a hand holding a heart charm bangle up to the light. Each charm is clearly different; the wrist owner changes each time (different skin tones, different stacks).",
+          "audio_or_text": "Music continues. Rapid text overlays sync to each cut: 'Moon. Intuition.' / 'Star. Courage.' / 'Heart. Love you give freely.' Font: clean serif, gold on neutral background.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 4,
+          "visual": "Back to original woman, now full wrist in frame. She holds her wrist up, bangles catching the light. She speaks directly to camera, relaxed and personal — not performative.",
+          "audio_or_text": "VO continues (or she speaks on-camera): 'I didn't pick this one because it's pretty. I picked it because it's mine.' Music swells slightly.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 5,
+          "visual": "Product close-up: three to four different charm bangles arranged on a neutral cream surface, each with its charm facing up. Slow push-in. Alex and Ani wordmark appears bottom center.",
+          "audio_or_text": "Text overlay: 'Every charm has a meaning. Find yours.' CTA button: 'Shop Now' — links to charm meaning collection page. Music fades to single guitar note.",
+          "duration_seconds": 3
+        }
+      ],
+      "copy": {
+        "headline": "Every charm has a meaning. This one is yours.",
+        "body": "The anchor. The moon. The star. Each Alex and Ani charm carries researched symbolism — not decoration, but intention. Choose the one that speaks to who you are right now.",
+        "cta": "Find Your Charm"
+      },
+      "target_audience": "Women ages 22–40 who buy jewelry for themselves as self-expression. Wellness-adjacent, spiritually curious, identity-driven. Not actively in a gifting mindset — browsing for themselves.",
+      "messaging_angle": "Self-purchase / symbolic identity. The charm you choose is a statement about your values and inner life — not an accessory but a wearable affirmation. Directly addresses the unmet self-purchase audience.",
+      "production_notes": "Cast: 3 women of different skin tones and ages (22–38). No heavy styling — linen, casual-elevated. Natural light studio or a real apartment with warm afternoon light. Props: cream linen surface, small ceramic dish holding bangles. No ring lights, no harsh shadows. Hand model for extreme close-ups must have clean, natural nails — no acrylics or nail art that competes with the jewelry. Bangles featured: Anchor, Moon Phase, Shooting Star, and Strength of Heart. Music: acoustic guitar loop, 80-90 BPM, warm mid-tones.",
+      "reference": "Gorjana's 'Wear Your Intention' single-gemstone ads — minimal, editorial, one word on screen. Adapted: A&A's version is warmer, more personal, uses VO storytelling rather than text-only, and features multiple charms with named meanings rather than a single aesthetic claim. Pandora's creator whitelisting format also informs the direct-to-camera scene.",
+      "negative_prompts": [
+        "Avoid staged, overly posed hand positions — no flat-lay hands with perfect manicures that look like stock photography",
+        "Do not use cool-toned or silver jewelry in the same frame — all metal should be warm gold or rose gold to maintain brand palette",
+        "No white or grey backgrounds — cream, linen, skin tone, or warm neutral only",
+        "Avoid spiritual cliches like crystals, incense, or tarot cards in the frame — this is jewelry symbolism, not wellness prop theater",
+        "Do not use AI-generated hands or wrists — artifacts around fingers and bangle edges will immediately undermine authenticity"
+      ],
+      "post_production_notes": "Color grade: warm and slightly desaturated. Pull highlights toward golden-amber, lift shadows toward warm cream. Avoid cold blue channel entirely. Text overlays: clean serif (Playfair Display or similar) in warm gold (#ab8c52) for charm names; sans-serif (Helvetica Neue Light) in off-white for supporting copy. Text should appear on cut — not fade-in — to feel editorial rather than soft. Music sync: guitar pluck syncs to each charm close-up cut in Scene 3. Final frame hold on product shot should be 1.5 seconds minimum before CTA overlay appears. Captions auto-generated and burned in for sound-off."
+    },
+    {
+      "id": 2,
+      "title": "Build Your Stack: The Self-Gifting Ritual",
+      "content_type": "Reel",
+      "format": "Instagram Reel",
+      "hook": "A woman's bare wrist enters frame from the left. She slides on one bangle. Holds her wrist up. Slides on another. Text: 'Nobody bought these for me. I did.'",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Portrait orientation, medium close-up: A woman (early 30s, confident, relaxed) sits at a small table with 5-6 Alex and Ani bangles laid out in front of her. Her wrist is bare. She looks at the bangles thoughtfully, then picks one up.",
+          "audio_or_text": "No music yet. Ambient room tone. Text overlay appears: 'Nobody bought these for me.' Pause. Text changes: 'I did.'",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 2,
+          "visual": "Close-up on her wrist as she slides the first bangle on — a Path of Life bangle. She holds her wrist up to look at it. Then picks up a second (Strength of Heart). Slides it on.",
+          "audio_or_text": "Soft synth-ambient music begins at low volume. VO (her voice, relaxed, first-person): 'I started with one. For a really hard year I got through.'",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 3,
+          "visual": "Continues at the table: she slides on a third bangle — a Moon Phase. She looks at all three on her wrist, rotates her wrist slowly. Close-up on the three bangles together.",
+          "audio_or_text": "VO continues: 'Then one when I finally knew what I wanted. And one just because the moon always makes me feel less alone.'",
+          "duration_seconds": 5
+        },
+        {
+          "scene": 4,
+          "visual": "She looks directly into the camera. Natural, unpolished eye contact. No beauty-influencer pose. She holds her wrist up beside her face.",
+          "audio_or_text": "VO (or on-camera speech): 'This stack is basically my autobiography. And I'm still writing it.' Music lifts slightly.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 5,
+          "visual": "Cut to product close-up: the three featured bangles side by side on a warm linen surface. Alex and Ani logo appears. Price range text: 'From $28.'",
+          "audio_or_text": "Text overlay: 'Build your stack. One chapter at a time.' CTA: 'Shop Bangles' Music fades out on final note.",
+          "duration_seconds": 3
+        }
+      ],
+      "copy": {
+        "headline": "Build your stack. One chapter at a time.",
+        "body": "Some collections are built by gifters. Some are built by you. Alex and Ani charm bangles are designed to be collected — one meaning, one moment, one chapter at a time. Start at $28.",
+        "cta": "Shop Your Stack"
+      },
+      "target_audience": "Women 25–42 who self-purchase jewelry as emotional milestones or self-expression. Likely already own one Alex and Ani piece. The 'chapter' framing speaks to women who see life as a narrative they're actively building.",
+      "messaging_angle": "Self-purchase empowerment and collectibility. Directly counters the brand's over-reliance on gifting creative by centering the woman who buys for herself. The 'autobiography' metaphor makes collecting feel intentional, not indulgent.",
+      "production_notes": "Cast: one woman, 28–38, relatable and warm — not influencer-polished. Real apartment setting preferred over studio: a kitchen table, a bedroom vanity, a windowsill with morning light. No ring lighting. Props: 5-6 bangles from the Meaning core line, small ceramic dish or folded linen for product arrangement. Her nails should be clean and simple — a single neutral polish or bare. Wardrobe: simple long-sleeve or oversized top — nothing that competes with the wrist. Music: ambient synth or soft piano, 70-80 BPM, emotionally understated.",
+      "reference": "Pura Vida's personal ambassador UGC reels — first-person, bracelet origin story, authentic setting. Adapted: A&A's version is more reflective and emotionally layered than Pura Vida's energy-forward beach tone. The 'autobiography' metaphor and collectibility angle are unique to A&A's stacking identity. Gorjana's tight wrist close-ups inform the visual language.",
+      "negative_prompts": [
+        "Do not cast a woman who reads as a lifestyle influencer — overly curated apartment, ring light glow, or sponsored-content cadence will destroy credibility",
+        "Avoid showing gift boxes, gift bags, or wrapping — this must read as a self-purchase moment, not a gift receipt",
+        "Do not use upbeat, trendy pop music — the emotional tone is reflective and personal, not celebratory",
+        "Avoid showing more than 6 bangles on the wrist at once — the stack should feel curated and meaningful, not cluttered",
+        "No AI-generated room environments — the setting must feel genuinely lived-in with real imperfections (a book on the table, a coffee cup)"
+      ],
+      "post_production_notes": "Color grade: warm, slightly underexposed for intimacy. Think early morning or late afternoon light — golden hour-adjacent. Shadows should stay warm, not dark. Text for VO on-screen captions should appear in real-time with speech (not ahead of it) to preserve the conversational feel. The phrase 'Nobody bought these for me. I did.' in Scene 1 should be the only bold graphic moment — large, centered, white serif text on a briefly darkened frame. All other text overlays should be smaller and secondary. Final product shot should have a very slight push-in (Ken Burns effect, subtle) to avoid a static feeling. No jump cuts — all transitions should be straight cuts or very slow dissolves."
+    },
+    {
+      "id": 3,
+      "title": "It Came From My Childhood: Polly Pocket Drop",
+      "content_type": "Reel",
+      "format": "Instagram Reel / TikTok Video",
+      "hook": "The unmistakable click of a Polly Pocket compact opening. Camera pulls back to reveal a gold bangle nestled inside the compact where Polly would be. Text: 'She's back. On your wrist.'",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Extreme close-up: A vintage-style Polly Pocket compact (collab-branded) sits closed on a pastel pink surface. A woman's hand (painted nails — lavender or coral to match the compact) reaches in and clicks it open. Inside, a gold Alex and Ani bangle with a Polly Pocket charm sits where the miniature world would be.",
+          "audio_or_text": "Audio: The iconic Polly Pocket click sound, crisp and clear. Then a short ascending synth tone — nostalgic, toy-like. Text overlay: 'She's back.' Pause. 'On your wrist.'",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 2,
+          "visual": "The woman lifts the bangle from the compact and slides it onto her wrist. She's wearing one or two other A&A bangles. Cut to her wrist close-up: the Polly Pocket charm bangle sits between two other gold bangles in her existing stack.",
+          "audio_or_text": "Music kicks in: bright, nostalgic synth-pop (think 90s toy commercial energy remixed for 2026). VO or text: 'The Alex and Ani x Polly Pocket collection. For the girl who never really grew up.'",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 3,
+          "visual": "Quick montage — 3 cuts at 1 second each: (a) close-up of the Polly Pocket charm itself — tiny, detailed, gold; (b) the woman holding the compact and the bangle together, grinning at camera; (c) a flat-lay of the full collab collection — multiple pieces on a pastel surface with the compact.",
+          "audio_or_text": "Music continues. Text overlays rapid-fire: 'Limited drop.' / 'Expandable. One size.' / 'The charm has a meaning too.' Each text beat lands on a music accent.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 4,
+          "visual": "Woman looks into camera directly. She holds the bangle up beside her face, compact in the other hand. She speaks with genuine delight — not a scripted pitch, real nostalgia energy.",
+          "audio_or_text": "On-camera: 'I had every Polly Pocket. Now I have this. And honestly? This one's better.' Music drops to low level under her speech.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 5,
+          "visual": "Final product reveal: the bangle and compact on a pastel pink surface, shot from slightly above. Alex and Ani x Polly Pocket co-branding lockup appears. 'Limited Edition' text below.",
+          "audio_or_text": "Music returns to full level for final beat. Text: 'Shop the collab. Link in bio.' CTA button: 'Shop Now — Limited Drop'",
+          "duration_seconds": 3
+        }
+      ],
+      "copy": {
+        "headline": "Polly Pocket is back. And she's on your wrist.",
+        "body": "The Alex and Ani x Polly Pocket collection. Limited edition charm bangles for the girl who kept her compact. One-size-fits-all. Expandable. Full of meaning.",
+        "cta": "Shop the Drop — Limited Edition"
+      },
+      "target_audience": "Millennial women 28–40 with 90s nostalgia. Self-purchasers and gift-givers (buying for a sister, best friend, or themselves). Also performs well with gift-givers who know their recipient loved Polly Pocket.",
+      "messaging_angle": "Nostalgia-to-identity bridge. The collab isn't just a product feature — it's a personality identification moment. 'The girl who never really grew up' is an opt-in identity, not a demographic. Urgency layered through 'Limited Drop' framing, not discounting.",
+      "production_notes": "Cast: one woman, 28–38, nostalgic energy but not childish — she's a grown woman who owned this. Authentic enthusiasm, not ironic distance. Props: Polly Pocket compact (actual collab-branded compact from the partnership), multiple bangles from the collab line and core line for stacking context. Surface: pastel pink or lavender — nods to the Polly Pocket color world without being garish. Nails should be colored (lavender, coral, or light pink) to tie into the palette. Music: 90s toy commercial DNA remixed — bright, nostalgic, punchy. Reference: Aqua 'Barbie Girl' energy but condensed and modern.",
+      "reference": "BaubleBar's licensed IP drop-moment marketing — first frame is recognizable IP in jewelry form, fandom recognition does the work. Adapted: A&A's version adds the physical compact prop as a tactile nostalgia trigger (not just showing the jewelry) and leads with the click sound as an audio hook. The 'girl who never grew up' identity angle is entirely A&A's — BaubleBar stays fandom-surface, A&A goes personal-identity.",
+      "negative_prompts": [
+        "Do not make this feel like a children's toy ad — the tone should be warm nostalgia for grown women, not pink-and-sparkly little-girl energy",
+        "Avoid using actual Polly Pocket dolls or miniature figures in the frame — legal/licensing risk and it infantilizes the concept",
+        "Do not use a discount or sale CTA — 'Limited Drop' urgency is the conversion lever, not price reduction",
+        "Avoid generic influencer reaction faces (exaggerated open-mouth surprise) — authentic delight reads very differently from performed surprise",
+        "Do not let the compact overpower the bangle — the jewelry must always be the hero product even when the IP prop is present"
+      ],
+      "post_production_notes": "Color grade: slightly elevated saturation compared to standard A&A warm-neutral palette — the Polly Pocket world justifies more playful color. Keep skin tones warm and accurate; boost the pastel surface and compact color slightly. The Polly Pocket click sound in Scene 1 should be isolated and crisp — this is the audio hook, treat it with care in the mix. Music should be mixed louder than typical A&A content (this is an energy piece). Text overlays in Scene 3 should use a slightly playful serif or rounded sans-serif — still on-brand but with more personality than the core line. All transitions are straight cuts or very fast match-cuts. No dissolves or wipes — keep the energy tight. Final frame hold should be 2 seconds minimum for the product lockup."
+    },
+    {
+      "id": 4,
+      "title": "Real Women, Real Stacks: Community Proof Carousel",
+      "content_type": "Carousel",
+      "format": "Instagram Carousel / Facebook Carousel Ad",
+      "hook": "Frame 1 is a full-screen mosaic of 9 real customer wrist photos — different skin tones, different stacks, different lives. Text: '975,000 women. One bangle at a time.'",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Full-bleed frame: a 3x3 grid mosaic of 9 real customer wrist photos pulled from UGC — different ages, skin tones, bangle combinations, settings (gym, office, beach, kitchen). Clean white grid lines separate the images. The variety is the point.",
+          "audio_or_text": "Text overlay centered, bold serif: '975,000 women.' Below in lighter weight: 'One bangle at a time.' Alex and Ani wordmark bottom right. Swipe indicator arrow bottom center.",
+          "duration_seconds": 0
+        },
+        {
+          "scene": 2,
+          "visual": "Single customer photo — a woman in her 30s, outdoor setting, wrist raised with 4 bangles visible. Below the photo, a pull-quote in a quote-formatted box: 'I buy one every time something big happens. My wrist is basically my diary.' — @sarah_m, verified buyer. Star rating: 5 stars.",
+          "audio_or_text": "Text: Customer name, handle, and star rating. Small 'Verified Buyer' badge. Bottom of frame: 'Expandable. One size fits all wrists.'",
+          "duration_seconds": 0
+        },
+        {
+          "scene": 3,
+          "visual": "Different customer — a woman in her 50s, warm indoor light, wearing 6 bangles including what appears to be a faith-themed one. Pull-quote: 'I've been collecting for 12 years. Each one marks something I survived or something I'm grateful for.' — @marilyn_r.",
+          "audio_or_text": "Text: Quote formatted as above. Star rating: 5 stars. Bottom of frame: 'Every charm has a researched meaning.'",
+          "duration_seconds": 0
+        },
+        {
+          "scene": 4,
+          "visual": "A younger woman (early 20s, college-age feel) — 3 bangles on her wrist including a zodiac charm. Her stack looks minimal and intentional. Pull-quote: 'My first one was a birthday gift. I bought the next three myself. Now I'm kind of obsessed.' — @zo.writes.",
+          "audio_or_text": "Text: Quote formatted as above. Star rating: 5 stars. Bottom of frame: 'Start at $28. Collect forever.'",
+          "duration_seconds": 0
+        },
+        {
+          "scene": 5,
+          "visual": "Product frame (editorial, not catalog): Four bestselling bangles arranged on a warm linen surface. Prices shown beneath each: Path of Life $38 / Anchor $38 / Moon Phase $44 / Strength of Heart $38. Alex and Ani wordmark centered above.",
+          "audio_or_text": "Headline text: 'Find the one that's yours.' CTA button: 'Shop Bestsellers' — links directly to charm bangle collection.",
+          "duration_seconds": 0
+        }
+      ],
+      "copy": {
+        "headline": "975,000 women. One bangle at a time.",
+        "body": "Real stacks. Real stories. Alex and Ani charm bangles are worn — and kept — because every charm means something. Join the collection.",
+        "cta": "Shop Bestsellers"
+      },
+      "target_audience": "Mid-funnel consideration audience: women who have seen the brand but haven't purchased. Social proof format targets skeptics who need validation. Also effective for gifters researching a purchase.",
+      "messaging_angle": "Social proof through community scale and authentic voice. The 975K follower count is treated as evidence of cultural resonance, not just a vanity metric. Real customer quotes replace brand claims — the product speaks through people who already own it.",
+      "production_notes": "Source UGC: pull real customer photos from Instagram tagged posts (#alexandani, @alexandani mentions). Get usage rights before running as paid dark posts. If UGC library is thin for paid use, commission 5-8 'seeded UGC' shots with real customers (non-influencer) in genuine settings. Pull-quotes must be from real verified reviews (Yotpo review database is the source of truth). Do not fabricate or paraphrase reviews. Photography for Frame 5: editorial flat-lay on warm linen, consistent with brand palette. No studio lighting artificiality — use diffused window light.",
+      "reference": "Pura Vida's ambassador UGC at scale — the 'everyone has one' social proof effect. Adapted: A&A's version is emotionally deeper (diary/survival/gratitude framing) vs. Pura Vida's energy-forward lifestyle tone. Kendra Scott's review-pull carousel format also informs the quote treatment. A&A's version elevates the quote to story status rather than a simple star rating display.",
+      "negative_prompts": [
+        "Do not use photos with overly curated or professionally styled wrists — the power of this format is authenticity, not perfection",
+        "Avoid choosing UGC photos where the bangle is barely visible or competing with other jewelry brands",
+        "Do not write fake or paraphrased reviews — only verbatim quotes from verified buyers with real handles",
+        "Avoid cold or dark-toned UGC photos in the mosaic — if a customer photo has poor lighting, do not include it",
+        "Do not run this format without first securing written usage rights from each customer featured"
+      ],
+      "post_production_notes": "Frame 1 mosaic should be assembled in post with consistent crop (square 1:1 on each of the 9 photos) and a thin warm gold (#ab8c52) grid line (2px) separating each image — this keeps it editorial rather than collage-messy. All individual quote frames should have a consistent light cream background (#f5f0e8) with the photo taking up approximately 55% of the frame height, quote below. Font: serif for the quote text (Garamond or Cormorant), sans-serif for the handle and star rating. Star rating rendered in warm gold, not default yellow. Swipe indicator should be a subtle but visible right-pointing chevron at 40% opacity, warm gold color. Frame 5 product shot should have a very slight drop shadow under each bangle to avoid the flat-lay feeling completely graphic."
+    },
+    {
+      "id": 5,
+      "title": "The Meaning Behind the Moon",
+      "content_type": "Static",
+      "format": "Meta Static / Instagram Static Feed Ad",
+      "hook": "A single gold moon-phase charm bangle on a woman's bare wrist, shot in warm late-afternoon light. One line of text over the image: 'You chose the moon. Here's why that makes sense.'",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Primary image: Portrait orientation (4:5 for feed). A woman's wrist and forearm, shot from slightly above. She's wearing only the Moon Phase charm bangle — no other jewelry. Background is softly blurred warm cream (a table or wall). The bangle catches light at the charm point. Her skin tone is medium-warm. The image is quiet and editorial — no forced pose.",
+          "audio_or_text": "Headline text overlay at top of image (not obscuring the bangle): 'You chose the moon.' Second line below in lighter weight: 'Here's why that makes sense.' Alex and Ani wordmark at bottom in warm gold.",
+          "duration_seconds": 0
+        }
+      ],
+      "copy": {
+        "headline": "You chose the moon. Here's why that makes sense.",
+        "body": "The Moon Phase charm symbolizes the rhythm of transformation — the understanding that everything moves in cycles and beauty exists in every phase. For the woman who trusts her own timing. Moon Phase Bangle, $44.",
+        "cta": "Shop Moon Phase"
+      },
+      "target_audience": "Women 22–40 interested in wellness, astrology, lunar cycles, and self-trust narratives. Self-purchasers. High overlap with journaling culture, meditation practice, and 'slow living' aesthetics.",
+      "messaging_angle": "Symbol meaning as identity mirror. The ad starts with 'you chose' — positioning the customer as already having an instinct toward this symbol, then validating and deepening that choice with the charm's meaning. It's not selling a bracelet; it's affirming a worldview.",
+      "production_notes": "Photography: real wrist, real afternoon light. No ring light or studio flash. Shoot near a window with natural diffused light — golden hour preferred. Wrist should be relaxed, not posed. No nail art — clean, bare nails or a single nude polish. The charm should be the focal point; ensure it catches the light at the point of shooting rather than in post. Background: genuinely out-of-focus warm cream or linen — not a constructed sweep or paper backdrop. Wardrobe: neutral long-sleeve (oatmeal, ecru, soft white) — the forearm is the canvas. Multiple skin tone variations should be shot for A/B testing.",
+      "reference": "Gorjana's 'Wear Your Intention' single-product editorial statics — minimal composition, one-word meaning text, clean serif type. Adapted: A&A's version goes deeper on the meaning (a full sentence of symbolism rather than a single word) and uses a second-person address ('you chose') to create a direct personal connection that Gorjana's more neutral tone doesn't achieve.",
+      "negative_prompts": [
+        "Do not use a flat-lay composition for this concept — the bangle must be worn on a real wrist, not arranged on a surface",
+        "Avoid cool-toned or blue-hour lighting — the moon concept might tempt a night-sky aesthetic but the brand palette demands warm gold tones",
+        "Do not include more than one bangle in this shot — the entire concept depends on the single charm having focused attention",
+        "Avoid mystical or celestial background elements (star fields, crescent moon graphics, galaxy textures) — the symbolism lives in the copy, not the production design",
+        "Do not let the text overlay cover any part of the charm itself"
+      ],
+      "post_production_notes": "Color grade: warm, slightly lifted exposure. Highlights should roll off toward golden-cream rather than pure white. Shadows: warm brown, never cold grey. The charm itself should be retouched to ensure it reads as gold (not silver or yellow) — minor hue adjustment on the metal may be needed. Typography: headline in Cormorant Garamond Italic or similar warm editorial serif, sized large enough to read on mobile without zooming. Body copy in Helvetica Neue Light or similar minimal sans-serif, smaller, below the headline. Both text blocks should have a very subtle warm shadow (not a hard drop shadow — more like a light blur) to ensure legibility against any wrist/skin tone background. Three versions of the static should be produced: (a) medium-warm skin tone, (b) deep skin tone, (c) light skin tone — A/B/C test all three."
+    },
+    {
+      "id": 6,
+      "title": "50 Charms, 50 Meanings: The Meaning Index",
+      "content_type": "Carousel",
+      "format": "Instagram Carousel / Facebook Carousel Ad",
+      "hook": "Frame 1: A grid of 12 charm close-ups with their symbol names. Text: 'Every charm in our collection has a specific meaning. Do you know yours?' Designed to make you swipe immediately.",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Frame 1 — Full bleed, warm cream background. A 3x4 grid of 12 charm close-up photographs — anchor, moon, star, heart, feather, elephant, dragonfly, tree of life, cross, sun, arrow, anchor again in different metal. Each charm labeled below with its name in small serif text. Headline centered above grid.",
+          "audio_or_text": "Headline: 'Every charm has a meaning. Do you know yours?' Subtext below grid: 'Swipe to explore.' Arrow indicator.",
+          "duration_seconds": 0
+        },
+        {
+          "scene": 2,
+          "visual": "Frame 2 — Single charm, large and centered: The Anchor charm on a cream background. Below the charm, a text panel: Charm name in large serif: 'ANCHOR'. Below: the meaning in 2-3 lines of body copy. Charm shown both close-up and on a wrist model at small scale in the corner.",
+          "audio_or_text": "Text: 'ANCHOR — The anchor symbolizes stability and groundedness. For those who remain strong when everything around them shifts. For the ones others rely on.' Price: '$38' in small text. CTA: 'Shop Anchor'",
+          "duration_seconds": 0
+        },
+        {
+          "scene": 3,
+          "visual": "Frame 3 — Same format: Path of Life charm centered on cream background. Wrist thumbnail in corner.",
+          "audio_or_text": "Text: 'PATH OF LIFE — The winding path symbolizes that the journey to where you are meant to be is never straight — and that every turn has brought you here.' Price: '$38'. CTA: 'Shop Path of Life'",
+          "duration_seconds": 0
+        },
+        {
+          "scene": 4,
+          "visual": "Frame 4 — Shooting Star charm. Same layout. Wrist thumbnail.",
+          "audio_or_text": "Text: 'SHOOTING STAR — A beacon of hope and possibility. A reminder to make your wishes known to the universe — and then do the work to make them real.' Price: '$44'. CTA: 'Shop Shooting Star'",
+          "duration_seconds": 0
+        },
+        {
+          "scene": 5,
+          "visual": "Frame 5 — 'Find Your Charm' quiz frame. Full-bleed warm cream with three illustrated charm icons (anchor, star, moon) and three corresponding descriptors: 'Grounded. Hopeful. Intuitive.' Below: prompt text.",
+          "audio_or_text": "Headline: 'Which charm is calling to you?' Body: 'Take the quiz and find the symbol that speaks to where you are right now.' CTA button: 'Find My Charm' — links to the charm meaning quiz or filter tool on alexandani.com.",
+          "duration_seconds": 0
+        }
+      ],
+      "copy": {
+        "headline": "Every charm has a meaning. Do you know yours?",
+        "body": "Alex and Ani charms aren't chosen randomly. Every symbol in our collection carries researched meaning — a wearable reminder of who you are and who you're becoming. Swipe to find yours.",
+        "cta": "Find My Charm"
+      },
+      "target_audience": "Top-of-funnel cold audience: women who are symbolism-curious, astrology-adjacent, or wellness-interested but not yet familiar with Alex and Ani's depth of meaning. Also effective for mid-funnel retargeting of site visitors who browsed but didn't purchase.",
+      "messaging_angle": "Educational hook driving product discovery. The carousel format naturally rewards curiosity — each swipe teaches you something about a charm. The final frame converts curiosity to action via a quiz CTA that feels like self-discovery, not a sales push.",
+      "production_notes": "Photography: all charm close-ups shot consistently — same lighting setup, same cream background (#f5f0e8), same focal length. Each charm should fill approximately 60% of its frame. The wrist thumbnail on Frames 2-4 should be a small inset (bottom right corner, approximately 20% of frame width) showing the charm worn on a real wrist — this grounds the editorial beauty shot in wearability. Design work: the grid in Frame 1 requires precise layout — equal spacing, warm gold grid lines (optional, 1px). Typography must be consistent across all frames.",
+      "reference": "Kendra Scott's 'Color Bar' personalization format — make purchase feel like a creative self-discovery process rather than a transaction. Adapted: A&A's version replaces the 'pick your color' mechanic with 'find your symbol's meaning' — a deeper and more personally resonant form of discovery. The educational carousel also borrows from Pandora's sequential retargeting structure, where awareness content (meaning education) precedes a conversion CTA.",
+      "negative_prompts": [
+        "Do not use decorative or stylized charm illustrations — all charm visuals must be actual product photography to drive purchase intent",
+        "Avoid writing charm meanings that sound generic or horoscope-vague — meanings must feel specific, researched, and personal",
+        "Do not include price points in Frames 1-4 — this is an education-first format; price in the final conversion frame only",
+        "Avoid inconsistent photography style across the frames — if one frame is warm-lit and another is cool or flat, the carousel loses its editorial authority",
+        "Do not use more than 5 frames total — carousel fatigue drops off sharply after Frame 4 for cold audiences"
+      ],
+      "post_production_notes": "All carousel frames must have pixel-perfect alignment — headline position, charm position, and CTA position should be at identical coordinates across Frames 2-4. Use a locked template. Background color must be hex-matched (#f5f0e8) across all frames — slight variations in production will be visible when swiping. The grid in Frame 1 should have a very slight warm vignette on the outer edges to draw the eye inward. Font hierarchy: Charm name in Cormorant Garamond Bold (or similar warm serif) at 32-36pt; meaning copy in Garamond Regular at 16-18pt; price in Helvetica Neue Light at 14pt. All text in warm charcoal (#3a3228), not black — avoids harsh contrast against the cream background."
+    },
+    {
+      "id": 7,
+      "title": "ASMR Bangle Stack Drop",
+      "content_type": "Reel",
+      "format": "Instagram Reel / TikTok Video",
+      "hook": "Silence. Then a single bangle dropped onto a glass surface — a clean, resonant metallic ring. Text: 'That sound.' The bangle settles and gleams. Another drops. And another.",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Overhead macro shot: a completely clean, warm-toned glass or marble surface. Nothing on it. A single gold Alex and Ani bangle falls into frame from above and lands with a clean bounce and settle. The camera holds.",
+          "audio_or_text": "Sound design: crisp, isolated metallic ring of the bangle on the surface. No music. No voice. Just that sound. Text appears 1 second after bangle settles: 'That sound.' White serif on black letterbox bar.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 2,
+          "visual": "Same overhead angle. A second bangle drops in — slightly overlapping the first. Then a third. Each landing is its own distinct sound event. The camera holds between drops — building tension and anticipation.",
+          "audio_or_text": "Each bangle landing produces its own ASMR-quality metallic ring, slightly different pitch per bangle. Between drops: silence. No music. Text appears after third bangle: 'Each one means something.'",
+          "duration_seconds": 6
+        },
+        {
+          "scene": 3,
+          "visual": "A hand enters frame (close-up) and gently lifts all three bangles, sliding them onto a wrist in one smooth motion. The hand rotates the wrist — bangles catch the light, each charm visible: anchor, moon, heart.",
+          "audio_or_text": "As bangles slide on the wrist: the gentle metallic whisper of bangle-on-bangle contact. Music fades in very slowly — a single piano note held long. VO (soft, barely above a whisper): 'Build a stack that says everything about you.'",
+          "duration_seconds": 5
+        },
+        {
+          "scene": 4,
+          "visual": "Close-up on the three charms individually — anchor, moon phase, strength of heart — each held up to the light for 1 second, then returning to rest on the wrist. The macro lens makes each charm look architectural and beautiful.",
+          "audio_or_text": "Text overlays sync to each charm close-up: 'Stability.' / 'Transformation.' / 'Courage.' Font: minimal serif, small, appearing and dissolving with each charm. Piano note continues.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 5,
+          "visual": "Wide-ish shot (relative to the close-ups): the woman's hand rests on a warm surface, bangles on her wrist, relaxed and natural. Alex and Ani wordmark appears. 'From $28.' in small text below.",
+          "audio_or_text": "Piano note resolves. Text: 'Alex and Ani. Wear what matters.' CTA: 'Shop the Stack' Music fades completely.",
+          "duration_seconds": 3
+        }
+      ],
+      "copy": {
+        "headline": "That sound. That stack. That meaning.",
+        "body": "ASMR-worthy bangles with meaning behind every charm. Build a stack that says everything — without saying a word. From $28.",
+        "cta": "Build Your Stack"
+      },
+      "target_audience": "Women 20–38 who consume ASMR content and jewelry-adjacent sensory content on TikTok and Instagram Reels. Also effective for the existing A&A customer who has responded to product-beauty content and is ready for another purchase.",
+      "messaging_angle": "Sensory + symbolic. The ASMR format stops the scroll with sound and macro beauty. The meaning layer (charm names as single words) keeps it on-brand and substantive. The stacking reveal makes it a product education moment wrapped inside a sensory experience.",
+      "production_notes": "Sound design is the hero of this production — invest in a proper audio capture setup. Use a directional condenser microphone (Rode NT1 or similar) or a boom mic close to the surface to capture the bangle-drop sound cleanly. Shoot on a glass or polished marble surface for the cleanest acoustic ring. The surface should be warm-toned or backlit through glass — avoid white marble with cold grey veining. Camera: macro lens, mounted overhead on a C-stand for precision. Bangles used: Anchor, Moon Phase, Strength of Heart from the core line — all in gold finish. No rose gold in this concept — the warm gold color reads better in macro. No special effects in production — the sound and light do all the work.",
+      "reference": "Pandora's ASMR/craftsmanship close-up reel format that drove +19% add-to-cart. Adapted: A&A's version adds the symbolic meaning layer (one-word charm identities) that Pandora's purely sensory format lacks. The drop-from-above mechanic is specific to A&A's bangle identity (bangles fall and settle differently than charms on a chain). The overhead angle and silence-as-hook is a direct evolution of Pandora's ASMR approach into A&A's warmer, more meaningful brand world.",
+      "negative_prompts": [
+        "Do not add background music from the start — the silence-then-sound structure is the entire hook; any music before Scene 3 destroys the ASMR effect",
+        "Avoid surfaces that produce a dull thud rather than a metallic ring — test each surface acoustically before shooting",
+        "Do not show more than 3-4 bangles in the drop sequence — too many loses the individual identity of each charm sound",
+        "Avoid AI-generated macro textures or CGI product shots — the charm quality must be verified as real product to avoid material misrepresentation",
+        "Do not use slow-motion effects — the normal-speed bangle drop sounds better and feels more immediate than slo-mo, which softens the ASMR impact"
+      ],
+      "post_production_notes": "Audio mix is the primary post-production task: each bangle landing should be EQ'd to emphasize the 2-6kHz metallic frequency range (where the 'ring' lives) and lightly compressed. Slight reverb tail on each bangle drop (very short decay, 0.3-0.5 seconds) adds a sense of space without sounding artificial. Silence between drops should be true silence — strip any ambient room noise in post. Video color grade: warm, slightly high contrast to make the gold pop against the surface. Pull the saturation down slightly on the background to keep the bangle as the only warm element in frame before the wrist appears. Text overlay timing: text must appear exactly 1 second after each bangle sound event — not before, not simultaneously — to let the sound land first. Final CTA frame: hold for 3 seconds, no animation."
+    },
+    {
+      "id": 8,
+      "title": "Charity In Your Hands: The Giving Stack Story",
+      "content_type": "UGC",
+      "format": "TikTok UGC / Instagram Reel (Creator Whitelisted)",
+      "hook": "A creator holds up a bangle and says directly to camera: 'I bought this bracelet. And $8 of it went to [cause]. This is the one jewelry brand where buying something for yourself is also giving something to someone else.'",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Creator (woman, 26–35, authentic and direct — not a macro-influencer aesthetic, more 'smart friend on TikTok') holds a Charity By Design bangle up to the camera, close to the lens. She speaks directly to camera, relaxed, no teleprompter energy. Her wrist already has 2-3 other A&A bangles on it.",
+          "audio_or_text": "On-camera speech: 'I bought this bracelet. And $8 of it went to [charity partner name]. This is the one jewelry brand where buying something for yourself is literally also giving.' VO is creator's natural speaking voice — no processing.",
+          "duration_seconds": 6
+        },
+        {
+          "scene": 2,
+          "visual": "Creator flips the bangle slightly to show the charm face. Close-up cut to the charm itself for 2 seconds — shows the specific Charity By Design charm symbol clearly. Returns to creator face.",
+          "audio_or_text": "Creator continues: 'They've donated over $53 million to charities through this program. $53 million. From people just buying bangles.' Emphasis is natural, not scripted-sounding.",
+          "duration_seconds": 6
+        },
+        {
+          "scene": 3,
+          "visual": "Creator slides a second bangle onto her wrist alongside the Charity By Design one. She holds both up. Rotates her wrist slowly to show the stack.",
+          "audio_or_text": "Creator: 'I stack mine with a couple of their regular charm bangles. The moon phase is mine. The giving one is for both of us.' She smiles — genuine, not performed.",
+          "duration_seconds": 5
+        },
+        {
+          "scene": 4,
+          "visual": "Creator looks into camera with a frank, direct expression. No smile performance — just honest eye contact.",
+          "audio_or_text": "Creator: 'If you're going to spend money on yourself, spend it somewhere that spends it forward too. Link in bio.' She taps the bangle once with her other finger — a small, natural gesture.",
+          "duration_seconds": 4
+        }
+      ],
+      "copy": {
+        "headline": "Buy something for yourself. Give something to someone else.",
+        "body": "Alex and Ani's Charity By Design program has donated $53M+ to causes through jewelry purchases. Every Charity By Design bangle contributes 20% to a partner cause. Wear what matters.",
+        "cta": "Shop Charity By Design"
+      },
+      "target_audience": "Cause-conscious women 22–40. Also effective for guilt-resistant self-purchasers who need a values-alignment to feel good about a purchase. High conversion potential among women who already donate or volunteer.",
+      "messaging_angle": "Cause marketing with self-purchase permission. The ad reframes self-indulgence as generosity — buying for yourself is also giving to someone else. This removes the guilt from self-purchase while reinforcing A&A's differentiated values position. No competitor does this in paid social.",
+      "production_notes": "Creator selection: identify 3-5 micro-creators (50K-500K followers) who already post about conscious consumption, wellness, or values-led purchasing. Ideally, creators who mention charitable giving or cause-adjacent content regularly. Do not use beauty-only influencers for this concept — the cause credibility must come from a person who authentically engages with giving. Brief creators loosely — give them the key facts ($53M, 20%, charm symbol meaning) and let them speak in their natural voice. Do not provide scripts. Shoot: creator's own environment (home, preferred setting). Whitelist from creator's account for dark post serving. No brand-logoed environments — authenticity is the production value.",
+      "reference": "Pura Vida's cause/charity UGC hybrid — bracelet plus charity identifier, 'every bracelet gives back.' Adapted: A&A's version goes far deeper on the cause credibility ($53M figure is a powerful anchor statistic that Pura Vida never uses) and centers the individual creator's personal meaning-making ('the giving one is for both of us') rather than Pura Vida's broader social-proof framing. Kendra Scott's creator ambassador program also informs the whitelisting/dark post distribution strategy.",
+      "negative_prompts": [
+        "Do not over-brief the creator with scripted copy — if it sounds scripted, the entire trust mechanism of UGC format collapses",
+        "Avoid creators who use high-production setups (ring lights, dedicated camera rigs, green screens) — the value is in the authentic, phone-camera energy",
+        "Do not allow the creator to mention a discount code or promotional price — this concept's conversion lever is values-alignment, not savings",
+        "Avoid creators with primarily male audiences or audiences under 20 — the cause-conscious self-purchase angle has a very specific target",
+        "Do not use the concept for a general charm bangle — only Charity By Design specific product should anchor this creative"
+      ],
+      "post_production_notes": "Minimal post-production is correct for this format — heavy editing signals inauthenticity. Primary tasks: crop to 9:16 vertical if not already, normalize audio levels (creator's voice should peak around -6dB), add auto-generated captions burned in (essential for sound-off — this concept is all voice). One optional text overlay only: the '$53M donated' stat can appear as a brief full-screen text moment (white bold text on black for 1.5 seconds) during Scene 2 to emphasize the figure without the creator having to repeat it. Do not add transitions, music under-track, or branded lower thirds — keep the format as close to organic TikTok/Reel as possible. When running as a dark post from the creator's handle, the only brand signal should be the product itself."
+    },
+    {
+      "id": 9,
+      "title": "Hot Wheels: Redline Your Wrist",
+      "content_type": "Story",
+      "format": "Instagram Story Ad / Meta Story Ad",
+      "hook": "Frame 1: A Hot Wheels car races across the bottom of the screen at full speed, leaving a red streak. It stops. The streak becomes the Alex and Ani Hot Wheels bangle, flat on a surface. Text: 'Fastest bangle on the track.'",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Vertical 9:16 Story format. A classic Hot Wheels car (iconic orange track car) races across the lower third of the screen from right to left, leaving a stylized red and chrome streak. The car stops at center frame. The streak settles and transforms (simple motion graphic) into the Hot Wheels x Alex and Ani bangle lying flat on a warm surface.",
+          "audio_or_text": "Audio: Hot Wheels engine sound effect (rev and skid). Then silence for 1 beat. Text slams in: 'FASTEST BANGLE ON THE TRACK.' Font: bold, blocky, all-caps — nods to Hot Wheels typography while staying readable.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 2,
+          "visual": "Quick cut to a real hand (male-presenting — this is the gifting angle, dad buying for daughter or boyfriend buying for partner) picking up the bangle and examining the Hot Wheels charm detail. Macro shot of the charm — the iconic Hot Wheels flame logo rendered in gold.",
+          "audio_or_text": "VO (male voice, warm and slightly amused): 'She had every Hot Wheels car as a kid. Now she can wear one.' Text overlay: 'Limited Edition. The Alex and Ani x Hot Wheels Collection.'",
+          "duration_seconds": 5
+        },
+        {
+          "scene": 3,
+          "visual": "The hand slides the bangle onto a woman's wrist. She raises her fist in a mock 'winner' pose — playful, not serious. She laughs.",
+          "audio_or_text": "VO continues: 'Expandable. One size. Ships fast.' Text: 'The perfect gift for the girl who never outgrew the track.' Hot Wheels red accent color used for the text.",
+          "duration_seconds": 4
+        },
+        {
+          "scene": 4,
+          "visual": "Final Story frame: product flat-lay on a surface with the bangle and a Hot Wheels car beside it (prop). Alex and Ani x Hot Wheels co-branding lockup. Price. Limited Edition badge.",
+          "audio_or_text": "Text: 'Limited Edition. $44.' CTA swipe-up / tap button: 'Shop the Collab' — in Hot Wheels red (#e31837) button color.",
+          "duration_seconds": 3
+        }
+      ],
+      "copy": {
+        "headline": "Fastest bangle on the track.",
+        "body": "The Alex and Ani x Hot Wheels collection. For the girl who had every car. Limited Edition — expandable, one-size-fits-all. The gift that hits different.",
+        "cta": "Shop the Collab"
+      },
+      "target_audience": "Gifters (men, 25–45, purchasing for wives/girlfriends/daughters who grew up in the 80s-90s with Hot Wheels toys). Also self-purchasing women with strong toy nostalgia. The Story format targets people already engaged with the brand or lookalike audiences of past gifting converters.",
+      "messaging_angle": "Nostalgia gift targeting. This uses a male gifter voice ('she had every car') to make the gift-selection decision feel obvious and safe. The humor of 'fastest bangle on the track' lowers the barrier and makes the purchase feel fun rather than considered. Limited Edition urgency drives click-through.",
+      "production_notes": "Props: actual Hot Wheels x A&A collab bangle, one classic Hot Wheels car (iconic orange or red paint job — not a generic toy car, it must be recognizable as Hot Wheels). Surface: warm-toned — either the classic Hot Wheels orange track material (if available as a prop) or a warm grey concrete-look surface. The motion graphic in Scene 1 (car-to-bangle transformation) requires a motion designer — brief with reference to Hot Wheels Racing League intro animations. Cast: male hand for Scene 2 (deliberate gifter positioning), female wrist for Scene 3 (the recipient energy). Keep both hand models consistent in warmth and naturalness.",
+      "reference": "BaubleBar's licensed IP drop-moment marketing — first frame is recognizable IP in jewelry form, no copy needed for fandom recognition. Adapted: A&A's version adds a gifter narrative voice (male VO) that BaubleBar never uses, transforming the IP drop into a gifting conversion tool. The Story format is chosen because its swipe-up mechanic creates a more direct conversion path than feed-based IP content. The motion graphic car-to-bangle transformation is a unique A&A creative element.",
+      "negative_prompts": [
+        "Do not make this feel like a children's toy ad — Hot Wheels is being activated as adult nostalgia, not children's play",
+        "Avoid using a generic toy car that doesn't read as specifically Hot Wheels — the brand equity of the car design is the IP hook",
+        "Do not use a female VO in Scene 2 — the male gifter voice is a deliberate strategic choice that creates a novel framing for A&A's otherwise female-first paid social",
+        "Avoid complex motion graphics that require more than 2 seconds to read — Story ads must communicate in under 3 seconds before swipe",
+        "Do not use the Hot Wheels red (#e31837) as a primary color beyond the CTA button — maintain A&A warm gold as the dominant palette"
+      ],
+      "post_production_notes": "The motion graphic in Scene 1 is the most technically demanding element — brief a motion designer with the following spec: car enters at 2x normal scroll speed, engine sound perfectly synced, the red streak should be drawn in a single fluid motion (not fade), and the transformation to bangle should be a simple, satisfying morph (1 second, ease-in-out). The streak color should graduate from Hot Wheels red (#e31837) to A&A gold (#ab8c52) during the morph — this is the brand handshake moment. Audio: Hot Wheels engine SFX should cut cleanly at the end of Scene 1; no audio bleeds into Scene 2 except the VO. Color grade: warmer and slightly more saturated than standard A&A content to match the playful energy of the collab. CTA button in Scene 4 must use Hot Wheels red per collab branding guidelines — confirm with brand partnership legal team."
+    },
+    {
+      "id": 10,
+      "title": "The Before Wrist: A Year of Collecting",
+      "content_type": "Reel",
+      "format": "Instagram Reel / TikTok Video (Creator Whitelisted UGC)",
+      "hook": "A bare wrist enters frame. Text: 'January.' A single bangle slides on. Text: 'February.' Another bangle. Cut to cut, one per month. By 'December' the wrist is a full, personal, beautiful stack.",
+      "storyboard": [
+        {
+          "scene": 1,
+          "visual": "Close-up of a bare wrist, side-lit in warm light. Text appears: 'January.' A single Alex and Ani bangle (Path of Life) slides onto the wrist from off-screen left. The wrist holds still. Cut.",
+          "audio_or_text": "Music: soft, building piano loop — begins very sparse, single notes only. Text: 'January' in minimal sans-serif, top left. No voiceover.",
+          "duration_seconds": 2
+        },
+        {
+          "scene": 2,
+          "visual": "Same wrist angle. Now one bangle is already on. Text: 'March.' A second bangle (Moon Phase) slides on. The two bangles settle together — slight metallic click. Cut.",
+          "audio_or_text": "Music: piano continues, slightly fuller — a second note added to the chord. Text: 'March.' ASMR bangle-on-bangle contact sound mixed in.",
+          "duration_seconds": 2
+        },
+        {
+          "scene": 3,
+          "visual": "Same wrist, now two bangles. Text: 'June.' A third bangle slides on. Cut to a slightly wider angle showing the full wrist — three bangles, each with a visible charm. The hand rotates slightly as if checking the stack.",
+          "audio_or_text": "Music: fuller now, piano and soft ambient texture. Text: 'June.' The bangle-settle sound is slightly richer — three bangles making contact.",
+          "duration_seconds": 2
+        },
+        {
+          "scene": 4,
+          "visual": "A sequence of faster cuts — 'August,' 'October,' 'November' — each adding another bangle. The wrist is getting more adorned with each cut. The charms start to become visible as distinct identities. By 'November' there are 6 bangles.",
+          "audio_or_text": "Music: now fully built — piano melody with light percussion. The cuts accelerate slightly with the music. Text months appear and disappear quickly. ASMR sounds layer with each addition.",
+          "duration_seconds": 5
+        },
+        {
+          "scene": 5,
+          "visual": "Final frame: 'December.' The seventh bangle slides on. The wrist is now a full, beautiful, personal stack. The woman raises her wrist and holds it in frame — steady, calm, proud. The bangles catch the light. She doesn't look at camera. She looks at her wrist.",
+          "audio_or_text": "Music: resolves to a warm, full chord. Held. Text fades in slowly: 'A year. Seven charms. One wrist.' Pause. Then: 'Alex and Ani. Start your collection.' Music fades on final beat.",
+          "duration_seconds": 5
+        }
+      ],
+      "copy": {
+        "headline": "A year. Seven charms. One wrist.",
+        "body": "Alex and Ani charm bangles are designed to be collected — one at a time, one reason at a time. Start with one. Build for life. From $28.",
+        "cta": "Start Your Collection"
+      },
+      "target_audience": "Women 22–45 who are new to Alex and Ani or have only one bangle and haven't yet adopted the collecting habit. Also effective as mid-funnel retargeting for women who have visited the site but only added one item to cart.",
+      "messaging_angle": "Collectibility and journey. The 'one year' framing turns the purchase into a long-term relationship rather than a single transaction. Every woman who watches this imagines her own wrist — her own year — and feels the pull to start or continue. No gifting angle. No occasion dependency. Always-on.",
+      "production_notes": "Cast: one wrist model — consistent throughout the entire video. Warm skin tone preferred (reads best in warm-lit gold context). The wrist must be bare at the start — no other jewelry, no watch. Bangles selected should represent a range of the core line: Path of Life, Moon Phase, Anchor, Shooting Star, Strength of Heart, Wrap Bangle, Zodiac or Initial. Each bangle should be gold finish. The lighting setup must remain exactly consistent across all cuts — this should ideally be shot in a single session with very controlled light so the color temperature does not shift between months. If this is produced as creator UGC, brief the creator to maintain consistent lighting throughout. Music: original piano composition or licensed acoustic piano loop, building structure from minimal to full over the duration of the video.",
+      "reference": "Pura Vida's Bracelet Club subscription unboxing reels — the recurring content engine and FOMO loop. Adapted: A&A's version replaces the subscription model with a self-directed collecting journey, and replaces the unboxing reveal format with a longitudinal time-lapse of one person's actual collection building. The 'year' framing is unique to A&A. Pandora's sequential retargeting creative — awareness through brand narrative — also informs the choice of this as a top-of-funnel awareness vehicle.",
+      "negative_prompts": [
+        "Do not change the wrist model between month cuts — consistency of the single wrist is the entire narrative device; any change breaks the story",
+        "Avoid adding any non-A&A jewelry in the final stacked wrist frame — watches, rings, or other brand bangles will undermine the brand exclusivity of the stack",
+        "Do not use a calendar graphic or literal calendar imagery — the months should appear as clean text only, the visual storytelling carries the time concept",
+        "Avoid speeding up the first three cuts too aggressively — the slowness at the beginning is essential to make the acceleration in Scene 4 feel earned",
+        "Do not include a gift occasion reference anywhere in the copy or storyboard — this is exclusively a self-purchase, always-on creative"
+      ],
+      "post_production_notes": "The month text overlays must be precisely timed to land on the exact frame where the bangle first makes wrist contact — not before, not after. This sync point is the rhythm of the entire video. In post, identify each bangle-contact frame and place the month text there. Color grade: warm and consistent across all cuts — this is critical because lighting inconsistency between 'months' will read as poor production. Grade all cuts to the same warm-gold reference frame before final output. Music mix: the building piano structure should be mixed so the 'full chord' in Scene 5 feels genuinely resolved and satisfying — this is an emotional payoff moment. The ASMR bangle sounds should be subtly present throughout Scenes 1-4, then absent in Scene 5 (only music) to create a sense of completion. Final text 'A year. Seven charms. One wrist.' should appear in three separate beats — not all at once — one line per 0.8 seconds, synced to the held final chord."
+    }
+  ]
+}
