@@ -1,0 +1,70 @@
+{
+  "content_type": "Product-Forward Anniversary Gift Carousel",
+  "content_type_hook": "Close shot of hands holding an open Alex and Ani meaning card, text intentionally soft-focus and intimate. '22 Years of Gifts That Last. Every piece comes with a meaning. That's not an accident.'",
+  "why_it_works": "The 'I believe...' declaration framework reframes the gift purchase as an act of articulation — the buyer is not choosing a product but choosing a statement about who they think the recipient is. This is deeply aligned with Alex and Ani's meaning-card USP and elevates the carousel from a product grid to a series of relational commitments. The split composition (product on skin left, declaration typography right) creates a visual system that is immediately distinctive in the feed and provides a clear text-reading pattern for muted-scroll viewers. Highest creative originality in the carousel set.",
+  "campaign_intent": "brand anniversary (22 years, 2004–2026)",
+  "created_date": "2026-02-22",
+  "hashtags": [
+    "#AlexAndAni",
+    "#MeaningfulGifts",
+    "#22Years",
+    "#IBelieve",
+    "#GiftWithMeaning",
+    "#CharmJewelry",
+    "#GiftsForHer",
+    "#WornWithIntent"
+  ],
+  "concept": {
+    "title": "What You Give Her Is What You Believe About Her",
+    "format": "Carousel",
+    "storyboard": [
+      {
+        "scene": 1,
+        "visual": "Close shot of two hands holding an open Alex and Ani meaning card. Card text is intentionally soft-focus — intimate and private. Background: warm gold. Headline text overlaid in large serif above the hands.",
+        "audio_or_text": "Text overlay: '22 Years of Gifts That Last. / Every piece comes with a meaning. / That's not an accident.' No product visible on this card.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 2,
+        "visual": "Split composition. Left half: Token of Love Charm Bangle ($28) on skin, warm amber light, wrist relaxed. Right half: cream background with large confident serif typography — declaration text centered.",
+        "audio_or_text": "Text overlay left: 'Token of Love Charm Bangle — $28 / For the love that needs no occasion.' Text overlay right (large, confident serif): 'I believe you are enough.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 3,
+        "visual": "Split composition. Left half: Make Your Own Luck Ladybug Bangle ($38) on wrist, natural light, slight forward motion (bangle not perfectly still). Right half: cream background, declaration typography.",
+        "audio_or_text": "Text overlay left: 'Make Your Own Luck Ladybug Bangle — $38 / For the one who is about to begin.' Text overlay right: 'I believe you can make your own luck.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 4,
+        "visual": "Split composition. Left half: Attitude of Gratitude Bangle ($28) on wrist, warm wooden surface visible below the wrist. Right half: cream background, declaration typography.",
+        "audio_or_text": "Text overlay left: 'Attitude of Gratitude Bangle — $28 / For the person who lifts every room.' Text overlay right: 'I believe gratitude is the right word for you.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 5,
+        "visual": "Split composition. Left half: Glass Butterfly Beaded Charm Bangle ($38) on wrist, slightly darker, richer background — editorial. Right half: cream background, declaration typography.",
+        "audio_or_text": "Text overlay left: 'Glass Butterfly Beaded Charm Bangle — $38 / For the one in the middle of her transformation.' Text overlay right: 'I believe she is always becoming.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 6,
+        "visual": "Split composition. Left half: Mama Crystal Tennis Necklace ($44) on a woman's collarbone, close and warm. Right half: cream background, declaration typography — this card's declaration is the most emotionally direct.",
+        "audio_or_text": "Text overlay left: 'Mama Crystal Tennis Necklace — $44 / For the mother who gives everything without asking.' Text overlay right: 'I believe she deserves to be spelled out.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 7,
+        "visual": "Full-bleed warm gold background — returns to the Card 1 palette. Wrist with two bangles and Love Crystal Tennis Necklace visible on collarbone — the richest product frame in the carousel. CTA button: 'Shop Meaningful Gifts.'",
+        "audio_or_text": "Text overlay: 'Find the one that says what you mean. / 22 years of meaning, worn.' CTA button: 'Shop Meaningful Gifts.'",
+        "duration_seconds": 3
+      }
+    ],
+    "copy": "Jewelry lasts. Meaning lasts longer. 22 years of charm jewelry built around both.",
+    "cta": "Shop Meaningful Gifts",
+    "reference": "Inspired by Hallmark's declaration-as-gift-message creative format and Pandora's 'Give a Little Wonder' typographic carousel — adapted by replacing aspirational couple photography with split-screen product-on-skin plus large declaration typography, and by making the declaration speak to the buyer's belief about the recipient rather than to the recipient directly. The split composition draws from Away's luggage campaign typography panels.",
+    "product_placement_notes": "Every product card uses split composition — product on skin (left 50%), declaration typography (right 50%). Products must be on skin, never flat-lay or white-background. Token of Love: wrist relaxed, gold finish clearly visible. Make Your Own Luck Ladybug: slight motion preferred — bangle not perfectly still. Attitude of Gratitude: warm wooden surface visible below wrist for texture. Glass Butterfly: darker, richer background than other cards — treat as the most editorial shot. Mama Necklace: collarbone close-up, gold tone matching card 1 warm palette. Final card (Scene 7): two bangles and Love Crystal Tennis Necklace together — the richest product composition in the set, warm gold background.",
+    "talent_direction": "All cards: hands and wrists only — no faces required. Consistent warm-amber photography grade across all product cards. Cream background panels (right half of each split) are graphic design, not photography. Typography on declaration panels: large, confident serif font, dark navy or deep charcoal on cream — not gold (reserves gold for background panels). Card 5 Glass Butterfly: use richer, deeper background lighting to differentiate editorially. Final card (Scene 7): collarbone shot with necklace plus two wrists visible — requires one model rather than crop approach."
+  }
+}

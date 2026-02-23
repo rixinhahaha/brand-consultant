@@ -1,0 +1,70 @@
+{
+  "content_type": "Male Gift Buyer CTV and Pre-Roll Video Spot",
+  "content_type_hook": "ECU of man's hands holding a smartphone. Partial text on screen: 'what to get her for—' and he stops typing. Puts phone face-down. Sound of phone being set down. No voiceover. No music. Silence.",
+  "why_it_works": "The unfinished search bar is one of the highest-recognition moments in digital advertising for male gift buyers — virtually every man in the target demographic has performed this exact action. Opening on it creates immediate identification before a single product or brand name is mentioned. The meaning card reveal with 1.5 seconds of complete silence is the emotional center: it demonstrates Alex and Ani's unique differentiator (the meaning card) not through copy but through a man's visible moment of recognition — 'this is specific.' The woman's delayed reaction (she reads before she smiles) rewards attentive viewers and avoids the generic gift-reveal emotional shorthand.",
+  "campaign_intent": "brand anniversary (22 years, 2004–2026)",
+  "created_date": "2026-02-22",
+  "hashtags": [
+    "#AlexAndAni",
+    "#GiftsForHer",
+    "#22Years",
+    "#TheCard",
+    "#MeaningfulGifts",
+    "#JewelryWithMeaning",
+    "#CharmBracelet",
+    "#StartingAt28"
+  ],
+  "concept": {
+    "title": "The Card",
+    "format": "Video",
+    "storyboard": [
+      {
+        "scene": 1,
+        "visual": "Extreme close-up of a man's hands holding a smartphone. The screen shows a partial search query clearly readable: 'what to get her for—' His thumbs stop moving. He sets the phone face-down on the surface. The tap sound of the phone is the only audio.",
+        "audio_or_text": "Sound of phone being set face-down on a surface — specific, real. No voiceover. No music. Complete silence after the tap. This is the full hook.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 2,
+        "visual": "Cut wider — real living room, casual. Man sits back in his chair, thinking. A laptop is open. A text notification flashes on the screen — unreadable, just present. He opens a new browser tab.",
+        "audio_or_text": "VO begins (male voice, calm, slightly wry, not announcer): 'She already has jewelry. What she does not have is a bracelet with a reason behind it.' No music yet.",
+        "duration_seconds": 4
+      },
+      {
+        "scene": 3,
+        "visual": "Product in someone's hand — a man's hand holds the Attitude of Gratitude bangle with a small folded meaning card tucked beneath it. Camera slowly pulls focus from the hand to the card — almost readable but not quite. The card's presence is the subject.",
+        "audio_or_text": "VO: 'Every Alex and Ani bracelet — and they have been making them since 2004 — comes with a card that explains exactly what it means.' A single piano note enters — simple two-note warm phrase. Minimal.",
+        "duration_seconds": 6
+      },
+      {
+        "scene": 4,
+        "visual": "The meaning card is now in full legible close-up — actual Attitude of Gratitude card text visible and readable for 2 full seconds. Cut to the man's face reading it. His expression settles — barely perceptible nod. Then: 1.5 seconds of COMPLETE SILENCE. No VO. No music. Just the card and his face.",
+        "audio_or_text": "Complete silence for 1.5 seconds — no VO, no music, no ambient sound. The silence is the creative device. Then VO resumes, quieter: 'So when she opens it, she knows it was not a guess. It was specific.' Piano phrase resumes softly.",
+        "duration_seconds": 6
+      },
+      {
+        "scene": 5,
+        "visual": "Woman opens the gift — a simple paper bag or small envelope, no velvet box, no elaborate packaging. She pulls out the card first. Close-up on her face: she READS the card. She does not smile immediately. She reads. Then the corners of her eyes change slightly. Then she slides the bracelet on. Close-up on the bangle settling on her wrist.",
+        "audio_or_text": "VO: 'Alex and Ani. Starting at twenty-eight dollars.' Slight piano swell — then it pulls back deliberately. The reaction must be earned by the card, not announced by music.",
+        "duration_seconds": 5
+      },
+      {
+        "scene": 6,
+        "visual": "Clean product shot — Attitude of Gratitude bangle and its meaning card in the same frame on a warm-toned surface, natural light. Bracelet is slightly open (expandable wire visible — subtle product feature). Meaning card is partially visible beside it. Text overlay appears.",
+        "audio_or_text": "Text overlay: 'Alex and Ani — Since 2004' / '22 Years.' No voiceover in this beat. Music at very low level.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 7,
+        "visual": "Clean end card. 'alexandani.com' centered in clean serif. 'Starting at $28.' Below, smaller: 'Free shipping on orders over $50.'",
+        "audio_or_text": "VO: 'Find her bracelet at alexandani.com. Starting at twenty-eight dollars.' Music out at this scene's start. URL and offer hold in silence for 2 seconds after VO ends.",
+        "duration_seconds": 3
+      }
+    ],
+    "copy": "Every Alex and Ani bracelet comes with the meaning written down. So she knows exactly why you chose it. Starting at $28.",
+    "cta": "Find her bracelet — alexandani.com",
+    "reference": "Inspired by Google's 'Year in Search' emotional film structure (recognition moment as entry, silence as peak) and the male gift-advertising grammar of Tiffany's 'What Makes Love True' YouTube pre-roll — adapted by centering on the brand's specific USP (meaning card) rather than luxury aspiration, and by casting the woman's reaction as reading-first rather than delight-first. The unfinished search bar opening is native to YouTube context.",
+    "product_placement_notes": "Scene 3: Attitude of Gratitude bangle in a man's hand with meaning card tucked beneath — the card must be clearly present and identifiable as an Alex and Ani meaning card, but text should be almost-but-not-quite readable here (building to Scene 4 reveal). Scene 4: meaning card fully legible for 2 full seconds — card text is the creative hero of this scene. Scene 5: woman reads card first before bracelet — critical sequencing. Close-up on bangle settling on wrist after she reads. Scene 6: bangle and meaning card together in same frame — the expandable wire visible (open cuff position preferred to show the product feature). No velvet boxes, no gift bags with tissue, no elaborate packaging in any scene.",
+    "talent_direction": "Scene 1-2 man: 32-48, real, casual home environment — the unfinished search is a private moment of defeat before clarity. His face in Scene 4 reading the card should register recognition, not emotion — a barely perceptible nod is the correct direction. Scene 5 woman: her reaction to the card must be directed as reading, not receiving — 'look at the words first, not the person giving it to you.' She does not smile immediately. The delayed emotional response (corners of the eyes, then the bracelet) must be captured in a single uncut take if possible. Wardrobe both: casual, real, not styled. No statement pieces competing with the product. Environment: real home, not a set."
+  }
+}

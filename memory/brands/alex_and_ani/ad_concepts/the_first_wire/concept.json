@@ -1,0 +1,70 @@
+{
+  "content_type": "Cinematic Heritage Brand Film",
+  "content_type_hook": "Extreme close-up of a single copper wire being bent by bare hands — silence except faint metallic sound. No music yet.",
+  "why_it_works": "Heritage brand films that lead with craft origin and founder intent build deep brand trust with long-term loyalists and create high-value first-touch impressions for cold audiences. The silence-first opening forces attention in a noisy feed. The voiceover reframes 22 years of brand history as a single human question ('what if jewelry meant something?'), making the anniversary feel earned rather than celebratory. No discount and no product push allows the story to carry full emotional weight — the brand becomes the message.",
+  "campaign_intent": "brand anniversary (22 years, 2004–2026)",
+  "created_date": "2026-02-22",
+  "hashtags": [
+    "#AlexAndAni",
+    "#Est2004",
+    "#22Years",
+    "#MeaningfulJewelry",
+    "#CharmBangle",
+    "#MadeWithMeaning",
+    "#CranstonRI",
+    "#WornWithPurpose"
+  ],
+  "concept": {
+    "title": "The First Wire",
+    "format": "Video",
+    "storyboard": [
+      {
+        "scene": 1,
+        "visual": "Extreme close-up of a single copper wire being bent by bare hands at a wooden worktable. Tight macro — fingerprints, wire tension, the slight give of the metal.",
+        "audio_or_text": "Silence except faint metallic sound of wire bending. No music. No voiceover.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 2,
+        "visual": "Camera pulls back slowly to reveal a craftsperson at a long wooden worktable in a Cranston, Rhode Island workshop. Morning light enters through a tall window at a low angle. An 'Attitude of Gratitude' bangle is visible on the craftsperson's wrist. Cut to brick exterior — text appears: 'Cranston, Rhode Island. 2004.'",
+        "audio_or_text": "Text overlay on brick exterior: 'Cranston, Rhode Island. 2004.' Single acoustic guitar fingerpick begins — one note, unhurried. Voiceover (warm, measured, female): 'There was a question she kept asking.'",
+        "duration_seconds": 10
+      },
+      {
+        "scene": 3,
+        "visual": "A woman reads a meaning card for the first time — private, unposed reaction. Camera stays with her face. Overhead shot follows: bangles, meaning cards, and copper wire arranged on the worktable. The meaning card text is soft-focus but present.",
+        "audio_or_text": "Voiceover continues: 'What if a piece of jewelry could carry something real? Not just gold. Not just silver. Something you'd actually feel.' Guitar continues — single melodic phrase, no percussion.",
+        "duration_seconds": 12
+      },
+      {
+        "scene": 4,
+        "visual": "Warm montage of five wrist shots — women in motion, bangles stacked and caught mid-gesture. Hands in a kitchen, a car window, a garden, a desk, a morning coffee. Each shot 2-3 seconds. The bangles are incidental — the women are the subject.",
+        "audio_or_text": "Voiceover: '22 years. Across 66 countries. In 19 languages.' Second acoustic guitar layer enters imperceptibly — slightly warmer tone, barely audible beneath the first. No percussion.",
+        "duration_seconds": 18
+      },
+      {
+        "scene": 5,
+        "visual": "Return to the workshop. A craftsperson holds a completed bangle up to the morning window light — it scatters a small constellation of light points across the wooden worktable. The camera holds on the light scatter for a full 2 seconds before cutting.",
+        "audio_or_text": "Voiceover: 'She just wanted to make something that meant something.' Guitar sustains — no new notes added.",
+        "duration_seconds": 12
+      },
+      {
+        "scene": 6,
+        "visual": "Three intimate close-ups in sequence — three women, three ages, three wrists. None are performing for camera. One glances at her wrist. One adjusts a bangle. One simply holds her wrist in her lap, still.",
+        "audio_or_text": "Voiceover (quieter): 'It still does.' Guitar fades to single held note.",
+        "duration_seconds": 10
+      },
+      {
+        "scene": 7,
+        "visual": "Cut to dark textured recycled metal surface — deep, warm, almost tactile. Alex and Ani logo appears in gold. Below it: 'Est. 2004.' No animation. No movement. 3-second hold in silence.",
+        "audio_or_text": "Complete silence. Text overlay: 'Alex and Ani — Est. 2004.' No CTA. No URL. End frame holds.",
+        "duration_seconds": 5
+      }
+    ],
+    "copy": "22 years ago, a woman in Rhode Island asked: what if jewelry meant something? It still does.",
+    "cta": "AlexAndAni.com — Est. 2004",
+    "reference": "Inspired by Patagonia's long-form origin films ('The Footprint Chronicles') and Warby Parker's founding story format — adapted by removing all product-direct language and centering on a single founding question rather than a founder biography. The silence-first opening draws from Apple's product launch film grammar.",
+    "product_placement_notes": "Attitude of Gratitude bangle visible on craftsperson's wrist in Scene 2 — worn naturally, not presented. Bangles appear in overhead shot in Scene 3 alongside meaning cards and copper wire — environmental, not staged. Wrist montage in Scene 4 shows varied stacked bangles on real women in motion — never held toward camera or posed. Final brand card (Scene 7) has no product in frame.",
+    "talent_direction": "Craftsperson: 40s-60s, hands showing real work history. Workshop environment must be genuine or period-accurate to 2004 Cranston aesthetic — no clean modern studio. Women in wrist montage (Scene 4): real ages 25-65, diverse, not styled for the camera — casting from existing customers preferred. Scene 6 women: none should acknowledge the camera. Energy throughout: quiet, unhurried, deeply human. No smiling-at-camera moments."
+  }
+}

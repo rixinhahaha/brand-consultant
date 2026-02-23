@@ -1,0 +1,24 @@
+{
+  "name": "brand-agency",
+  "version": "1.0.0",
+  "description": "A multi-agent system that researches a DTC brand, audits its advertising, analyzes competitors, generates ad concepts with full storyboards, and produces model-agnostic AI production prompts — all orchestrated through a conversational CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rixinhahaha/brand-consultant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rixinhahaha/brand-consultant/issues"
+  },
+  "homepage": "https://github.com/rixinhahaha/brand-consultant#readme",
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^2.1.49"
+  }
+}

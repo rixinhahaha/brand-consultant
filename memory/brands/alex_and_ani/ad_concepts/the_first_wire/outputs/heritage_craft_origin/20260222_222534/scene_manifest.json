@@ -1,0 +1,119 @@
+[
+  {
+    "scene_id": "scene_1",
+    "title": "Scene 1 \u2014 The Wire",
+    "source_duration": 3,
+    "veo3_duration": "4s",
+    "is_sub_scene": false,
+    "stitch_group": null,
+    "prompt_length": 1368
+  },
+  {
+    "scene_id": "scene_2",
+    "title": "Scene 2 \u2014 The Workshop (interior)",
+    "source_duration": 10,
+    "veo3_duration": "8s",
+    "is_sub_scene": false,
+    "stitch_group": null,
+    "prompt_length": 1310
+  },
+  {
+    "scene_id": "scene_3",
+    "title": "Scene 3 \u2014 The Question",
+    "source_duration": 12,
+    "veo3_duration": "8s",
+    "is_sub_scene": false,
+    "stitch_group": null,
+    "prompt_length": 1522
+  },
+  {
+    "scene_id": "scene_4a",
+    "title": "Scene 4a \u2014 22 Years: Warm Kitchen",
+    "source_duration": 3,
+    "veo3_duration": "4s",
+    "is_sub_scene": true,
+    "stitch_group": "scene_4",
+    "prompt_length": 1041
+  },
+  {
+    "scene_id": "scene_4b",
+    "title": "Scene 4b \u2014 22 Years: Car Window",
+    "source_duration": 3,
+    "veo3_duration": "4s",
+    "is_sub_scene": true,
+    "stitch_group": "scene_4",
+    "prompt_length": 840
+  },
+  {
+    "scene_id": "scene_4c",
+    "title": "Scene 4c \u2014 22 Years: Garden",
+    "source_duration": 4,
+    "veo3_duration": "4s",
+    "is_sub_scene": true,
+    "stitch_group": "scene_4",
+    "prompt_length": 706
+  },
+  {
+    "scene_id": "scene_4d",
+    "title": "Scene 4d \u2014 22 Years: Desk Workspace",
+    "source_duration": 3,
+    "veo3_duration": "4s",
+    "is_sub_scene": true,
+    "stitch_group": "scene_4",
+    "prompt_length": 641
+  },
+  {
+    "scene_id": "scene_4e",
+    "title": "Scene 4e \u2014 22 Years: Morning Caf\u00e9",
+    "source_duration": 5,
+    "veo3_duration": "4s",
+    "is_sub_scene": true,
+    "stitch_group": "scene_4",
+    "prompt_length": 685
+  },
+  {
+    "scene_id": "scene_5",
+    "title": "Scene 5 \u2014 Light Through the Wire",
+    "source_duration": 12,
+    "veo3_duration": "8s",
+    "is_sub_scene": false,
+    "stitch_group": null,
+    "prompt_length": 1869
+  },
+  {
+    "scene_id": "scene_6a",
+    "title": "Scene 6a \u2014 It Still Does: First Wrist (overhead)",
+    "source_duration": 3,
+    "veo3_duration": "4s",
+    "is_sub_scene": true,
+    "stitch_group": "scene_6",
+    "prompt_length": 1042
+  },
+  {
+    "scene_id": "scene_6b",
+    "title": "Scene 6b \u2014 It Still Does: Second Wrist (straight on)",
+    "source_duration": 3,
+    "veo3_duration": "4s",
+    "is_sub_scene": true,
+    "stitch_group": "scene_6",
+    "prompt_length": 748
+  },
+  {
+    "scene_id": "scene_6c",
+    "title": "Scene 6c \u2014 It Still Does: Third Wrist (slight low angle)",
+    "source_duration": 4,
+    "veo3_duration": "4s",
+    "is_sub_scene": true,
+    "stitch_group": "scene_6",
+    "prompt_length": 796
+  },
+  {
+    "scene_id": "scene_7",
+    "title": "Scene 7 \u2014 Est. 2004",
+    "source_duration": 5,
+    "veo3_duration": "4s",
+    "is_sub_scene": false,
+    "stitch_group": null,
+    "prompt_length": 1167
+  }
+]

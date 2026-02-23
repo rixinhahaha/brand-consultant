@@ -1,0 +1,70 @@
+{
+  "content_type": "Lo-Fi Anniversary UGC Stack Reel",
+  "content_type_hook": "Overhead shot — creator's hands rifling through a pile of bangles. Sound of bangles clinking. Then quietly: 'Oh. Oh, I forgot about this one.'",
+  "why_it_works": "The 'I forgot about this one' hook triggers universal recognition — everyone has something meaningful they've lost track of. The discovery mechanics create native curiosity and scroll-stopping tactile sound. Unlike the deliberate annual diary structure of its companion concept, this concept is built on surprise and re-encounter — an entirely different emotional entry point that reaches the same audience through nostalgia and serendipity rather than intention. The muted-playback optimization (supered meaning-card text provides narrative without audio) makes this concept particularly strong as a paid dark post for Meta.",
+  "campaign_intent": "brand anniversary (22 years, 2004–2026)",
+  "created_date": "2026-02-22",
+  "hashtags": [
+    "#AlexAndAni",
+    "#BangleStack",
+    "#22Years",
+    "#TheOneYouForgot",
+    "#MeaningfulJewelry",
+    "#CharmBangle",
+    "#JewelryBox",
+    "#FoundItAgain"
+  ],
+  "concept": {
+    "title": "I Forgot I Had This One",
+    "format": "UGC",
+    "storyboard": [
+      {
+        "scene": 1,
+        "visual": "Overhead shot — creator's hands moving through a loose, unorganized pile of bangles on a bed or couch surface. The pile is real and untidy. Bangles clink audibly against each other. Then her hands stop.",
+        "audio_or_text": "Sound of bangles clinking — tactile, specific, not stylized. Creator's voice, very quietly: 'Oh. Oh, I forgot about this one.' No music. This is the entire hook.",
+        "duration_seconds": 2
+      },
+      {
+        "scene": 2,
+        "visual": "Creator brings one bangle to eye level — the camera follows it up from the pile. She turns it slowly, examining it like something returned from a long time away.",
+        "audio_or_text": "Creator narrates the chapter it accompanied: 'I wore it every single day for like six months and then I just... stopped.' Text overlay fades in: charm name + approximate year. No music — ambient room sound only.",
+        "duration_seconds": 4
+      },
+      {
+        "scene": 3,
+        "visual": "Creator slides the old bangle onto her wrist. Then picks up the Make Your Own Luck Ladybug bangle from the seeded pile. Beside it, a meaning card. She picks up the card and reads it quietly — lips moving slightly.",
+        "audio_or_text": "Creator reads meaning card aloud: 'Fortune. Opportunity. Luck you create.' Text overlay mirrors the card text: 'Make Your Own Luck — Fortune. Opportunity. Luck you create.' This is the muted-playback anchor scene.",
+        "duration_seconds": 4
+      },
+      {
+        "scene": 4,
+        "visual": "Creator slides the Ladybug bangle onto her wrist alongside the older piece. Camera cuts to close-up on her wrist — two bangles, two different eras of her life, both visible.",
+        "audio_or_text": "Creator: 'Alex and Ani's been making these for 22 years. That's a lot of right pieces for a lot of right moments.' Text overlay: '22 years. 2004–2026.' Brief, then clears.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 5,
+        "visual": "Creator picks up the Attitude of Gratitude bangle from the pile. Holds it up to the window — natural light hits the charm. Faint smile, real, not performed.",
+        "audio_or_text": "Creator: 'I needed this reminder this week specifically.' Small genuine laugh. Text overlay: 'Attitude of Gratitude — $28.' Meaning card text supered briefly beneath: 'Everyday is a gift.' No music.",
+        "duration_seconds": 4
+      },
+      {
+        "scene": 6,
+        "visual": "Creator's wrist held toward the window — three bangles now on. The pile of remaining bangles is still visible in the background, unresolved. Camera holds on the wrist in natural light.",
+        "audio_or_text": "Text overlay builds: '22 years. 2004–2026.' Ambient room tone. No voiceover in this beat.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 7,
+        "visual": "First direct eye contact. Creator looks up from the pile — still on the surface in front of her, still unfinished. Her expression is easy, slightly conspiratorial.",
+        "audio_or_text": "Creator: 'I have so many more to go through. Which one did you forget about?' Text overlay: '@alexandani — show us the one you forgot.' No music end card.",
+        "duration_seconds": 3
+      }
+    ],
+    "copy": "You don't lose them. You just forget them until you need them again.",
+    "cta": "Tag @alexandani — Show Us the One You Forgot",
+    "reference": "Inspired by the 'What's at the Bottom of Your Bag' TikTok content genre and Mejuri's organic 'jewelry stories' format — adapted by centering the emotional logic on rediscovery and meaning-card reading rather than haul or reveal mechanics. The muted-playback optimization strategy draws from Warby Parker's paid social approach of embedding narrative in text overlays for silent-scroll audiences.",
+    "product_placement_notes": "Make Your Own Luck Ladybug bangle and Attitude of Gratitude bangle are the two seeded hero pieces. A meaning card must be physically present beside the Make Your Own Luck bangle in Scene 3 and read aloud — the card text must be readable on screen as a text overlay simultaneously (muted-playback design). Old bangles in the pile should be real Alex and Ani pieces owned by the creator — not props. The pile itself should remain unresolved and unorganized throughout — do not tidy it between scenes.",
+    "talent_direction": "8-12 micro-influencers, 12K-50K followers, documented Alex and Ani owners (minimum 2 years of purchase history). Film as if going through a jewelry box on a Sunday — phone or mirrorless camera, near window, no ring light. The pile of bangles must be genuine — do not organize or stage it. Read meaning cards aloud as you encounter them — genuine reactions only. No scripted lines. No looking at camera until Scene 7. Wardrobe: casual home clothes. No 'unboxing' framing or 'gifted' language. No price mentions except as supered text."
+  }
+}

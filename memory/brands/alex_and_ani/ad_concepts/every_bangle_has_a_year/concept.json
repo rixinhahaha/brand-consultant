@@ -1,0 +1,70 @@
+{
+  "content_type": "Lo-Fi Anniversary UGC Stack Reel",
+  "content_type_hook": "ECU of a multi-stacked wrist, handheld, natural light. Creator's voice low and easy: 'Okay, so this is going to be a little embarrassing because some of these are really old.'",
+  "why_it_works": "The 'embarrassed' hook is a deliberate disarmament — it signals authenticity before any product is named. For the Wellness-Adjacent Spiritual Seeker and Gen Z Trend-Driven Collector, this registers as a trusted peer sharing something personal, not a brand post. The year-labeling mechanic (charm name + year + life moment) transforms each product into a chapter of a person's life, making the 22-year anniversary viscerally personal rather than corporate. The community challenge converts passive viewers into content creators, extending campaign reach through UGC amplification.",
+  "campaign_intent": "brand anniversary (22 years, 2004–2026)",
+  "created_date": "2026-02-22",
+  "hashtags": [
+    "#AlexAndAni",
+    "#BangleStack",
+    "#22Years",
+    "#ShowUsYours",
+    "#OldestPiece",
+    "#MeaningfulJewelry",
+    "#StackedWithStories",
+    "#CharmBangle"
+  ],
+  "concept": {
+    "title": "Every Bangle Has a Year",
+    "format": "UGC",
+    "storyboard": [
+      {
+        "scene": 1,
+        "visual": "Extreme close-up of a heavily stacked wrist, handheld camera, natural window light. The stack is real — varied metals, varied ages of wear. Creator touches the stack gently with the opposite hand.",
+        "audio_or_text": "Creator's voice, low and unscripted: 'Okay, so this is going to be a little embarrassing because some of these are really old.' No music. No intro.",
+        "duration_seconds": 2
+      },
+      {
+        "scene": 2,
+        "visual": "Creator slides off the oldest bangle — clearly oxidized and worn — and holds it toward camera in her palm. The bangle is the focus, slightly out of frame at edges, natural light catching the metal surface.",
+        "audio_or_text": "Creator narrates the specific life moment this bangle marked. Text overlay (supered): charm name + year (e.g., 'Path of Life — 2014'). No music — ambient room sound only.",
+        "duration_seconds": 4
+      },
+      {
+        "scene": 3,
+        "visual": "Creator slides the old bangle back on and picks up the Attitude of Gratitude bangle from a small pile of seeded pieces beside her. Turns it slowly in her fingers. Soft focus on the charm.",
+        "audio_or_text": "Creator reflects genuinely: 'I got this one when things were actually going well for once. Which sounds weird, but... I needed the reminder more then, not less.' Text overlay: 'Attitude of Gratitude — $28' fades in briefly, then clears.",
+        "duration_seconds": 4
+      },
+      {
+        "scene": 4,
+        "visual": "Creator sets the Attitude of Gratitude bangle on her knee and looks off-camera slightly — a real reflective moment, not performing.",
+        "audio_or_text": "Creator: 'Alex and Ani has been around for 22 years... My wrist has basically been a diary.' No supered text in this beat — let the line land clean.",
+        "duration_seconds": 5
+      },
+      {
+        "scene": 5,
+        "visual": "Creator holds up the Make Your Own Luck Ladybug bangle — new, clearly from the seeded set. Turns it to show the ladybug charm. Slides it on over existing stack.",
+        "audio_or_text": "Creator: 'I just started wearing this one. It feels like the right one for right now.' Text overlay: 'Make Your Own Luck — $38' with small ladybug icon beside the text.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 6,
+        "visual": "Creator's stacked wrist rests flat in her lap — all bangles on, full stack visible. Camera holds on the wrist in natural light without moving.",
+        "audio_or_text": "Text overlay builds: '22 years. 2004–2026.' No voiceover in this beat. Ambient room tone.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 7,
+        "visual": "First direct eye contact with the camera — creator looks up, easy, unhurried, slightly amused. This is the first time she has looked directly at the viewer.",
+        "audio_or_text": "Creator: 'What's the oldest piece in your stack? Show me.' Text overlay: '@alexandani — show us your oldest piece.' No music end card — just this.",
+        "duration_seconds": 3
+      }
+    ],
+    "copy": "22 years of meaning on one wrist. Show us yours.",
+    "cta": "Tag @alexandani — Show Us Your Oldest Piece",
+    "reference": "Inspired by Mejuri's 'What I'm Wearing' UGC creator format and Pandora's charm-storytelling reels — adapted by removing aspirational production value and anchoring every product moment to a specific year and life memory rather than aesthetic appeal. Community challenge mechanic draws from Glossier's early 'show us your routine' organic format.",
+    "product_placement_notes": "Attitude of Gratitude bangle and Make Your Own Luck Ladybug bangle are the two seeded hero pieces — they must appear in frame. Oldest bangle (creator's own) is featured first and treated as the emotional anchor. Products should never be held at arm's length toward camera in a presentational gesture — always in the hand naturally, or on the wrist. Meaning cards should be visible beside the seeded pile at start of Scene 3 but do not need to be read aloud in this concept.",
+    "talent_direction": "8-12 micro-influencers, 12K-50K followers, documented long-term Alex and Ani wearers (minimum 3 years of purchase history). Film in one or two unscripted takes near a window — no ring light, no studio. Wear real, personal bangles alongside the seeded pieces. No scripted lines — creator brief provides talking points only. No 'hey guys' opener. No mention of gifting, sponsorship, or prices. Creator should not look at camera until Scene 7. Energy: Sunday afternoon, reflective, like talking to a close friend."
+  }
+}

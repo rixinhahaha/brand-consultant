@@ -1,0 +1,50 @@
+{
+  "brand_slug": "alex_and_ani",
+  "last_updated": "2026-02-22",
+  "ad_audit": {
+    "ad_formats": [
+      {
+        "type": "Dynamic Product Ads (DPA) — Enriched Catalog",
+        "description": "Single-product static frames pulled from catalog feed, enriched with Afterpay design elements showing installment pricing. White or minimal background, product image centered, price and Afterpay badge overlaid. Used for retargeting and Advantage Shopping Campaigns. Produced a documented 34% ROAS lift when Afterpay design was introduced.",
+        "platform": "Meta (Facebook + Instagram)"
+      },
+      {
+        "type": "Static Sale Announcement — Discount-First Image",
+        "description": "Bold typographic banners announcing percentage-off deals. Dark navy, red, or purple backgrounds with centered all-caps white text, star/emoji accents flanking the headline. Black 'SHOP NOW' CTA button. No product imagery — pure discount messaging. Color-coded by promotion type.",
+        "platform": "Meta (Facebook + Instagram), Email"
+      },
+      {
+        "type": "Lifestyle TV/Video — Emotional Brand Spot",
+        "description": "Cinematic, warm-toned video spots featuring real-life relationship vignettes. Soft lighting, pastel and golden tones, voice-over narration reinforcing brand values. Music-driven pacing with no hard sell or discount mention. Older format appearing underutilized in current paid social rotation.",
+        "platform": "Broadcast TV, YouTube (repurposed for Meta)"
+      },
+      {
+        "type": "Symbol/Product of the Month — Gifting Feature Static",
+        "description": "Recurring monthly format spotlighting one charm or collection. Bright, playful color backgrounds matching the charm's palette. Copy pattern: '[SYMBOL NAME]: BUY MORE, SAVE MORE'. Countdown timer, emoji accents, single product hero shot. Creates calendar-based urgency and collectibility.",
+        "platform": "Meta (Facebook + Instagram), Email, Website"
+      },
+      {
+        "type": "TikTok Nostalgia/Discovery Content (Organic + Spark Ads)",
+        "description": "Organic and boosted TikTok content capitalizing on brand revival among younger audiences. Themes: styling bracelets, cleaning/maintaining bangles, stacking combinations, unboxing new arrivals. Phone-shot vertical format, authentic low-production aesthetic. Some tied to TikTok-exclusive landing page.",
+        "platform": "TikTok"
+      },
+      {
+        "type": "Gift-With-Purchase / Bundle Promotional Static",
+        "description": "Ads promoting threshold-based offers like free items with qualifying purchases. Product photography shows gifted item alongside qualifying purchase. Holiday-appropriate color treatment. Copy leads with the free item or add-on value rather than discount percentage.",
+        "platform": "Meta (Facebook + Instagram), Email"
+      }
+    ],
+    "visual_style": "Intersection of elegant minimalism and holiday-coded urgency. Base layer is clean: white backgrounds, black typography (Rethink Sans), warm gold accents (#ab8c52). Product photography tends toward close-up or wrist-on-model shots. Promotional overlays shift to bold all-caps typographic banners in high-contrast colors (deep navy, crimson, emerald, purple). TV and video content uses warm golden-hour cinematography, soft focus, and natural lighting. Visible split personality between video identity (warm, human, sentimental) and static/digital sale identity (bold, urgent, discount-coded).",
+    "hooks": [
+      "Discount-First / Price Announcement — opens immediately with percentage off or dollar value ('★ 20% OFF BRACELETS SALE ★'), no warm-up, the deal IS the hook",
+      "Scarcity + Time Pressure — opens with limited-time signal before revealing offer, countdown timers, flash sale language with '24-48 hour' windows",
+      "Emotional / Relational — Love and Meaning — opens with relationship moment or emotional question ('What does love look like?'), positions jewelry as carrier of meaning"
+    ],
+    "strategy_gaps": [
+      "No systematic UGC or customer testimonial creative in paid ads — despite 975K Instagram followers and active TikTok community, no structured UGC in promoted content",
+      "Sale ads lack product imagery — pure typographic discount banners compete on price signal rather than desire, creating brand equity erosion vs. competitors who use product-forward sale creative",
+      "Missing comparison / competitive differentiation ads — brand's unique position (younger buyer, American-made, eco-conscious, stackable, affordable) is invisible in ad creative"
+    ]
+  },
+  "historical_gaps": []
+}

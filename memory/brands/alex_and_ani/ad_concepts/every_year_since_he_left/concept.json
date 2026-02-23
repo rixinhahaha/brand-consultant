@@ -1,0 +1,70 @@
+{
+  "content_type": "Long-Term Customer Testimonial Video",
+  "content_type_hook": "Medium shot — woman seated in armchair or at kitchen table, wrists visible in lap with bracelets out of focus. Room tone and breath. Then she looks up at camera.",
+  "why_it_works": "The bangle-as-annual-marker-of-survival transforms a product into a grief ritual and a record of resilience. The 'thirteen bangles' arithmetic is a passive but powerful device — the viewer does the math silently and arrives at the emotional weight without being told. The 'pause that must never be cut' direction ensures the authentic moment of reckoning lands rather than being smoothed away in post. This concept addresses the Long-Term Loyalist at the deepest possible level — not lifestyle aspiration but the irreplaceable record of what they have survived. No competitor in the charm jewelry category has run verified, multi-year customer testimonials in paid social.",
+  "campaign_intent": "brand anniversary (22 years, 2004–2026)",
+  "created_date": "2026-02-22",
+  "hashtags": [
+    "#AlexAndAni",
+    "#22Years",
+    "#WornWithPurpose",
+    "#MeaningfulJewelry",
+    "#EveryYear",
+    "#CharmBangle",
+    "#CustomerStories",
+    "#WornSince2004"
+  ],
+  "concept": {
+    "title": "Every Year Since He Left",
+    "format": "Video",
+    "storyboard": [
+      {
+        "scene": 1,
+        "visual": "Medium shot of a woman seated in a lived-in armchair. Both wrists are visible in her lap — bracelets on both, softly out of focus. Room tone is present. She is looking at her hands. Then she looks up at the camera — a held breath before speaking.",
+        "audio_or_text": "Room tone only. No music. No voiceover. The look up is the hook — silence before she speaks earns the next moment.",
+        "duration_seconds": 8
+      },
+      {
+        "scene": 2,
+        "visual": "She speaks to camera — no framing adjustment, same medium shot. Unhurried. The camera holds exactly where it was. Her voice is composed, not fragile.",
+        "audio_or_text": "Her voice: 'I got my first one in 2010. My husband had just been diagnosed, and I needed something I could hold onto. My daughter found it for me. She was twelve.'",
+        "duration_seconds": 10
+      },
+      {
+        "scene": 3,
+        "visual": "Camera drifts from her face to a slow macro crawl across her wrist stack. The first bracelet from 2010 pulls into focus — worn, clearly the oldest. Camera holds on it for 3 seconds.",
+        "audio_or_text": "Text overlay: 'Path of Life Spiral — 2010' (or actual piece name from customer's collection). Her voice continues: 'That one I've never taken off. I wore it every single day he was in treatment. I wore it the day he died.'",
+        "duration_seconds": 10
+      },
+      {
+        "scene": 4,
+        "visual": "Camera has moved imperceptibly closer to her face during the drift — we are now slightly tighter than Scene 2 without a cut. She speaks at a different cadence — warmer, almost calm. A different bracelet catches focus.",
+        "audio_or_text": "Text overlay: 'Expandable Wire Bangle — Feather — 2012.' Her voice: 'Every year after that I bought myself one. Not for a birthday or anything. Just — to mark that I made it through another year.'",
+        "duration_seconds": 12
+      },
+      {
+        "scene": 5,
+        "visual": "Wider shot — pulling back slightly to include her whole posture. Both wrists in her lap, held gently, naturally. She is not performing. The room is present around her.",
+        "audio_or_text": "Her voice: 'I have thirteen now. Each one is a year. Each one is something I survived or something I started.' A real pause — 3-4 seconds of held silence in the edit, non-negotiable. Then: 'That feels like a lot when I say it out loud.'",
+        "duration_seconds": 10
+      },
+      {
+        "scene": 6,
+        "visual": "Return to macro on full wrist stack — camera drifts slowly across all bangles, not landing on any single one. Room tone. No movement from her. The stack is the subject.",
+        "audio_or_text": "Text overlay: 'Customer since 2010.' Room tone only. No voiceover. No music. The stack speaks.",
+        "duration_seconds": 8
+      },
+      {
+        "scene": 7,
+        "visual": "Cut to pure black. Clean serif typography appears: '2004 — 2026.' No logo animation. No movement. 3-second hold. Silence.",
+        "audio_or_text": "Complete silence. Text overlay: '2004 — 2026.' No CTA. No URL. 3-second hold, then fade.",
+        "duration_seconds": 5
+      }
+    ],
+    "copy": "She got her first piece the year she became a mother and a widow. She hasn't taken it off since.",
+    "cta": "2004 — 2026",
+    "reference": "Inspired by StoryCorps' interview documentary format and the emotional testimonial grammar of 'It Gets Better' archive films — adapted by centering entirely on a product ritual (annual bangle purchase) rather than a personal narrative untethered to the brand. The 'silent arithmetic' device (viewer counts years from the number of bangles) draws from Apple's 'Shot on iPhone' documentary concept where the product's capability is demonstrated without being stated.",
+    "product_placement_notes": "All bangles shown are the subject's own real pieces — not seeded product. Camera should not identify or label every bangle in the stack; it selects two for close-up text overlays (the first from 2010, the second from 2012). The full stack is shown in Scene 6 as a collective whole — not itemized. No new product introduction in this concept. The bangle collection is the record, not a product showcase.",
+    "talent_direction": "Woman, age 42-58. Must be an actual Alex and Ani customer since 2008-2012, with documented purchase history showing multi-year acquisition pattern. Must have experienced significant personal loss (partner, parent) during years of wearing the jewelry. Composed — not fragile, not performance of grief. Source via purchase data (8+ year history) or direct retail staff referrals. Real home setting, no set dressing. Wardrobe: whatever she wears at home. Casting process: 4-6 weeks minimum. Interview format: 45-90 minutes unstructured. The pause in Scene 5 (after 'thirteen') is non-negotiable — any editor who cuts it must be overruled."
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "scene_id": "scene_1",
+    "title": "Scene 1 \u2014 The Wire",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_2",
+    "title": "Scene 2 \u2014 The Workshop (interior)",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_3",
+    "title": "Scene 3 \u2014 The Question",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_4a",
+    "title": "Scene 4a \u2014 22 Years: Warm Kitchen",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_4b",
+    "title": "Scene 4b \u2014 22 Years: Car Window",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_4c",
+    "title": "Scene 4c \u2014 22 Years: Garden",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_4d",
+    "title": "Scene 4d \u2014 22 Years: Desk Workspace",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_4e",
+    "title": "Scene 4e \u2014 22 Years: Morning Caf\u00e9",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_5",
+    "title": "Scene 5 \u2014 Light Through the Wire",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_6a",
+    "title": "Scene 6a \u2014 It Still Does: First Wrist (overhead)",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_6b",
+    "title": "Scene 6b \u2014 It Still Does: Second Wrist (straight on)",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_6c",
+    "title": "Scene 6c \u2014 It Still Does: Third Wrist (slight low angle)",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  },
+  {
+    "scene_id": "scene_7",
+    "title": "Scene 7 \u2014 Est. 2004",
+    "status": "dry_run",
+    "output_path": null,
+    "error": null
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "name": "Kendra Scott",
+  "slug": "kendra_scott",
+  "instagram": "@kendrascott",
+  "why": "Dominant DTC jewelry brand with strong charm/personalization angle via Color Bar. Competes on personalization, gifting occasions, and community-driven retail. Their branded Yellow Friday event and micro-influencer strategy set the benchmark.",
+  "ad_types": [
+    {
+      "type": "Single Static Image — Product-Forward Feed Ad",
+      "description": "Clean product photography centered on a single hero piece or collection flatlay on light neutral or brand-yellow background. Polished, evenly lit studio lighting. Minimal text overlay. CTA is direct 'Shop Now'.",
+      "why_it_works": "Clean format lets the jewelry do the talking. High-contrast product isolation emphasizes gem color and metallic shine, the primary purchase driver for fashion jewelry buyers."
+    },
+    {
+      "type": "Promotional Discount Ad — Birthday / Loyalty Trigger",
+      "description": "Single image with branded overlay badge. Copy leads with emotional hook ('Happy (Almost) Birthday!') followed by tiered offer (50% off fashion, 25% off fine/demi-fine). CTA drives to sign-up flow.",
+      "why_it_works": "Personalized trigger events dramatically increase CTR. Tiered discount protects margin while creating perceived generosity. Sign-up CTA builds email/SMS list simultaneously."
+    },
+    {
+      "type": "Yellow Friday Sale Burst Ad — Branded Seasonal Event",
+      "description": "Brand's proprietary Black Friday alternative using signature yellow. Bold typography with discount callouts against bright yellow or black background. TV/video versions use warm family-gathering scenes. No promo code needed.",
+      "why_it_works": "Owning a named event builds brand equity beyond any single sale. Yellow creates instant brand recognition. No-code checkout removes friction. Cross-channel consistency amplifies reach."
+    },
+    {
+      "type": "Influencer/UGC Reel — Store-Based Styling & Try-On",
+      "description": "Nano/micro-influencers (10K-50K) film at or near retail locations or in natural settings. Native vertical Reels showing handling, stacking, wearing charm bracelets. Repurposed as paid dark posts on Meta and TikTok.",
+      "why_it_works": "Platform-native UGC blends into organic feeds. Third-party voices provide social proof. Achieved +20% CTR lift vs UGC-only, +175% ROAS lift YoY, +118% CVR lift YoY."
+    },
+    {
+      "type": "Collaboration / Limited-Edition Drop Ad",
+      "description": "Co-branded ads tied to cultural IP partnerships (Disney, Barbie). Visual language blends Kendra Scott aesthetic with IP partner's color world. Limited-edition framing creates urgency without explicit discount.",
+      "why_it_works": "Reaches IP partner's audience. Barbie campaign achieved +36% CTR lift. Cultural moment alignment drives earned media alongside paid reach."
+    },
+    {
+      "type": "Gifting Campaign Video — Male-Targeted CTV and Social",
+      "description": "30-second narrative spot using humor (Omaha Productions). Opens with situational misunderstanding, pivots to Kendra Scott solution. Warm domestic holiday setting. Runs on ESPN CTV, YouTube pre-roll, Meta video.",
+      "why_it_works": "Targets male shoppers (20% of customer base). Humor creates shareability. CTV on ESPN reaches sports-watching males at peak gift-research season."
+    }
+  ],
+  "visual_style": "Two visual registers: (1) clean, aspirational, feminine — high-key studio lighting, white or light marble surfaces, soft warm tones with gold and crystal accents; (2) warm, intimate lifestyle for UGC/influencer and holiday campaigns — natural light, candid framing. Yellow is signature brand color. Typography is clean serif or modern sans-serif, kept large and legible.",
+  "hooks": [
+    "Birthday / personal milestone trigger — 'Happy (Almost) Birthday!' with tiered discount",
+    "Branded event urgency — 'Wake up, it's Yellow Friday! 40% off is HERE!'",
+    "Cultural moment / discovery hook — 'Haven't you heard? Charm...' curiosity-gap Reel opener",
+    "Gifting problem / humor setup — man presents jewelry box containing certificate for a named star",
+    "New arrival / freshness push — 'Discover Your New Style' benefit-oriented freshness hooks"
+  ],
+  "buyer_personas_targeted": [
+    "The Self-Expressive Personalizer",
+    "The Gen Z Trend-Driven Collector",
+    "The Gift Buyer (Male)",
+    "The Milestone Collector"
+  ],
+  "viral_patterns": [
+    "Yellow Friday color takeover",
+    "Micro-influencer charm-stacking Reels",
+    "Cultural IP launch announcement"
+  ],
+  "last_researched": "2026-02-22",
+  "organic_content_formats": [
+    "Micro-influencer store-visit styling Reels",
+    "Color Bar customization demos",
+    "Holiday family lifestyle content",
+    "IP collaboration announcement posts",
+    "Birthday/loyalty trigger content"
+  ],
+  "content_cadence": {
+    "frequency": "Daily Instagram posts, 4-5x/week Reels, heavy cross-channel during Yellow Friday and holiday",
+    "platforms": "Instagram (primary), TikTok, Facebook, ESPN CTV, YouTube",
+    "seasonal_peaks": "Yellow Friday (late Nov), Valentine's Day, Mother's Day, holiday Q4"
+  },
+  "ugc_creator_strategy": {
+    "approach": "Nano and micro-influencers (10K-50K) create native vertical content, often filmed at retail locations",
+    "content_types": "Styling try-ons, charm stacking, unboxing, Color Bar visits",
+    "documented_results": "+175% ROAS lift YoY, +118% CVR lift YoY from influencer-led paid creative",
+    "scale": "Heavy investment in TikTok Spark Ads and Meta dark posts"
+  },
+  "creative_testing_patterns": {
+    "method": "A/B testing influencer content vs brand-produced. Platform-specific art direction across Facebook, Instagram, TikTok.",
+    "documented_results": "+20% CTR lift for influencer TikTok vs standard UGC, +289% CTR lift on Valentine's Day activations"
+  },
+  "spend_signals": {
+    "channels": "TV (ESPN CTV), Meta, Instagram, TikTok, Email/SMS",
+    "investment_areas": "Yellow Friday cross-channel, influencer Spark Ads, CTV for male gifting",
+    "notable": "Peyton Manning's Omaha Productions partnership for holiday campaign"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "content_type": "Cinematic Heritage Brand Film",
+  "content_type_hook": "ECU of a worn 'Attitude of Gratitude' bangle mid-swing on a woman's wrist. Woman's voice mid-sentence: 'I've had this on my wrist for — I don't even know. Eight years? Nine?'",
+  "why_it_works": "Starting mid-sentence drops the viewer into an ongoing conversation, triggering immediate parasocial recognition — the viewer is not being advertised to, they are overhearing someone they trust. The testimonial grammar (real women, real spaces, real pauses) provides social proof without asking for it. The archival interlude connects brand origin to lived customer experience, making the 22-year milestone feel like a shared journey rather than a brand claim. Sequential delivery (second-touch for 50%+ viewers of Concept 1A) means this film is contextually earned — viewers already know the origin story and are now receiving confirmation from people like them.",
+  "campaign_intent": "brand anniversary (22 years, 2004–2026)",
+  "created_date": "2026-02-22",
+  "hashtags": [
+    "#AlexAndAni",
+    "#WhatYouCarry",
+    "#22Years",
+    "#WornSince2004",
+    "#CharmBangle",
+    "#MeaningfulJewelry",
+    "#StackedWithStories",
+    "#BangleStack"
+  ],
+  "concept": {
+    "title": "What You Carry",
+    "format": "Video",
+    "storyboard": [
+      {
+        "scene": 1,
+        "visual": "Extreme close-up of a wrist in motion — a worn Attitude of Gratitude bangle mid-swing, caught in soft natural light. The bangle is clearly lived-in: slightly oxidized, sized to a specific wrist. Camera is handheld, intimate.",
+        "audio_or_text": "Woman's voice enters mid-sentence — no introduction, no transition: 'I've had this on my wrist for — I don't even know. Eight years? Nine?' No music. Room tone only.",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 2,
+        "visual": "Pull back reveals woman seated in a real living room — specific, personal, not styled. Camera holds on her for 4 seconds before cutting to a second woman in a different setting (outdoor, different season, different age). Then a third woman, quieter environment. Each shot establishes the grammar: these are real people in their own spaces.",
+        "audio_or_text": "First woman continues speaking about her bangle. Second and third women's voices begin overlapping softly — not simultaneous, but a braided rhythm. Original acoustic guitar enters barely — one sustained note beneath the voices. No voiceover narration.",
+        "duration_seconds": 12
+      },
+      {
+        "scene": 3,
+        "visual": "Wrist close-ups that function as extensions of each testimonial — scratch patterns in the metal, the particular twist of a wire that has been resized, the way a bangle sits differently on each wrist. Four pairs of hands placed flat on a wooden surface, all wearing bangles at different stages of wear. No one speaks. Camera drifts across them slowly.",
+        "audio_or_text": "Overlapping voices continue under the wrist footage: 'It was on my wrist the day my daughter was born.' / 'I wore it through my mother's last year.' / 'I put it on when I need to remember something.' Guitar sustains.",
+        "duration_seconds": 10
+      },
+      {
+        "scene": 4,
+        "visual": "Archival interlude — warm amber grain texture drops over the image. Craftsperson's hands bending wire in the Cranston workshop. The grain suggests memory rather than historical footage. Text clears slowly: 'Cranston, Rhode Island. 2004.' The interlude is 8 seconds — long enough to feel like a breath.",
+        "audio_or_text": "Voices fade to silence during archival section. Text overlay: 'Cranston, Rhode Island. 2004.' Guitar holds a single warm chord. Voiceover (one voice, quieter): 'Someone started making these in a room somewhere. Asking: what does this mean? What should jewelry mean?'",
+        "duration_seconds": 15
+      },
+      {
+        "scene": 5,
+        "visual": "Return to testimonials — present tense, warmer color grade. Fourth woman holds a meaning card without showing the text — the card is clearly the subject of her attention. Fifth woman is in a garden, daylight. There is a long silence before she speaks — camera holds on her face and the edit keeps the silence intact.",
+        "audio_or_text": "Fourth woman: 'It doesn't feel like jewelry to me. It feels like something that stays.' Fifth woman (after a real held pause): '22 years. That's most of my daughter's life. She has one too now.' Guitar melody begins to resolve.",
+        "duration_seconds": 15
+      },
+      {
+        "scene": 6,
+        "visual": "Quiet montage — mother and daughter both wearing bangles without acknowledging them. Two women at a kitchen table, bangles visible on both wrists as they talk to each other (not camera). A woman at a window, bangle sliding naturally down her wrist in the last available light of the day.",
+        "audio_or_text": "Final overlapping voice: 'I think that's what it means to carry something. You don't think about it. You just — do.' Guitar melody resolves to a single warm note. Room tone returns.",
+        "duration_seconds": 8
+      },
+      {
+        "scene": 7,
+        "visual": "Final testimonial — the oldest woman in the film. She is seated, wrist in her lap, bangle visible. She says nothing. Camera holds on her face in silence for 3 seconds. Slow fade to warm amber. Alex and Ani logo in gold. 'Est. 2004.' Text: 'Thank you for carrying it with you.' One final unresolved guitar note. Silence.",
+        "audio_or_text": "Complete silence for 3 seconds before text appears. Text overlay: 'Alex and Ani — Est. 2004.' Second line: 'Thank you for carrying it with you.' Final single guitar note — unresolved, sustaining. Fades to silence.",
+        "duration_seconds": 7
+      }
+    ],
+    "copy": "You have worn it through 22 years of things we don't have words for. Thank you for carrying it with you.",
+    "cta": "AlexAndAni.com — Worn Since 2004",
+    "reference": "Inspired by Dove's 'Real Beauty' documentary-testimonial format and Levi's 'Live in Levi's' real-people campaign — adapted by removing any aspirational styling or brand-directed narrative. Mid-sentence entry hook draws from Mailchimp's 'What's in Your Bag' film series. Sequential delivery logic mirrors Nike anniversary campaign sequencing.",
+    "product_placement_notes": "Attitude of Gratitude bangle is the primary recurring piece — worn, not presented. Products are never held toward camera. Meaning card appears in Scene 5 held by the fourth woman — text not readable, but the card's presence is deliberate and should be clearly identifiable as an Alex and Ani meaning card. Stacking is incidental to the testimonials, not the subject of them. No product should ever be the grammatical subject of a shot.",
+    "talent_direction": "Five women, ages spanning 28-70+, diverse. All sourced from real Alex and Ani customers — not talent agency. Real homes, real outdoor spaces, no set dressing. Wardrobe: whatever they wear day-to-day. No styling. Bangles must be their own, worn for a minimum of 1-2 years. Interview-to-edit process: 45-90 minute unstructured interviews, edit selects the most unguarded moments. The oldest woman in Scene 7 should not be directed — she should be filmed listening. The silence in Scene 7 is non-negotiable and must not be cut in any edit."
+  }
+}

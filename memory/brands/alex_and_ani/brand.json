@@ -1,0 +1,167 @@
+{
+  "brand": {
+    "name": "Alex and Ani",
+    "instagram": "@alexandani",
+    "vibe": [
+      "Warm",
+      "symbolic",
+      "spiritual",
+      "casual-boho",
+      "giftable"
+    ],
+    "category": "charm jewelry",
+    "price_range": "$22\u2013$88 (core range); sale items from $4.90; premium sets up to $150",
+    "materials": "recycled metals (primarily copper), stainless steel, crystals",
+    "tone": "Uplifting, empowering, and spiritually warm \u2014 the brand focuses on how jewelry makes the wearer feel rather than purely how it looks. Messaging is celebratory, inclusive, and affirmation-driven, with a strong emphasis on personal milestones, relationships, and positive energy.",
+    "usp": "To design and create meaningful, eco-conscious jewelry and accessories that positively empower and connect humanity \u2014 adorning the body, enlightening the mind, and empowering the spirit."
+  },
+  "category_slug": "charm_jewelry",
+  "last_updated": "2026-02-22",
+  "visual_identity": null,
+  "products": [
+    {
+      "name": "'Babe' Crystal Tennis Bracelet",
+      "description": "A modern tennis bracelet featuring sleek metal letters spelling 'BABE' set against a strand of shimmering crystals. Available in silver and gold tones.",
+      "price": "$38.00",
+      "image_uri": "https://cdn.shopify.com/s/files/1/0269/9558/9223/files/babe-tennis-chain-bracelet-1-AE250019RSTG.jpg",
+      "key_features": [
+        "Crystal-studded tennis chain construction",
+        "Bold metal letter spelling in center",
+        "Available in silver and gold finishes",
+        "Adjustable length for comfortable fit"
+      ]
+    },
+    {
+      "name": "'Make Your Own Luck' Ladybug Charm Bangle",
+      "description": "An expandable wire charm bangle featuring a ladybug charm with the empowering message 'Make Your Own Luck'. Part of the Spring 2025 collection.",
+      "price": "$38.00",
+      "image_uri": "https://www.alexandani.com/cdn/shop/files/lady-bug-opening-charm-bangle-1-AO260175SPSG.jpg",
+      "key_features": [
+        "Expandable wire bangle \u2014 one size fits all",
+        "Ladybug symbol charm with opening mechanism",
+        "Available in shiny gold finish",
+        "Designed for stacking with other bangles"
+      ]
+    },
+    {
+      "name": "Sweethearts 'Melt My Heart' Multi Charm Bangle",
+      "description": "A romantic multi-charm bangle inspired by the iconic Sweethearts candy, featuring multiple heart and candy-themed charms on an expandable wire base.",
+      "price": "$42.00",
+      "image_uri": "https://www.alexandani.com/cdn/shop/files/sweethearts-mixed-multi-charm-bangle-1-AL251135WSG.jpg",
+      "key_features": [
+        "Multi-charm design with Sweethearts candy motifs",
+        "Expandable wire construction for universal fit",
+        "Shiny gold finish",
+        "Part of licensed Sweethearts collaboration"
+      ]
+    },
+    {
+      "name": "Espresso Martini Multi Charm Bangle",
+      "description": "A playful multi-charm bangle celebrating the beloved espresso martini cocktail, featuring coffee and cocktail-themed charms on a gold expandable wire.",
+      "price": "$38.00",
+      "image_uri": "https://www.alexandani.com/cdn/shop/files/espresso-martini-multi-charm-bangle-1-AO251167WSG.jpg",
+      "key_features": [
+        "Multiple cocktail and coffee-themed charms",
+        "Expandable gold-tone wire base",
+        "Fun lifestyle-driven design",
+        "One size fits all"
+      ]
+    },
+    {
+      "name": "Glass Butterfly Beaded Charm Bangle",
+      "description": "An elegant beaded bangle featuring a delicate glass butterfly charm, available in silver. Combines nature-inspired symbolism with the brand's signature expandable wire format.",
+      "price": "$38.00",
+      "image_uri": "https://www.alexandani.com/cdn/shop/files/glass-butterfly-beaded-charm-bracelet-1-AO251061WSS.jpg",
+      "key_features": [
+        "Glass butterfly charm centerpiece",
+        "Beaded wire construction",
+        "Shiny silver finish",
+        "Expandable for universal sizing"
+      ]
+    },
+    {
+      "name": "Token of Love Charm Bangle",
+      "description": "A meaningful charm bangle celebrating love and affection, designed as a stackable everyday piece. Part of Alex and Ani's core relationship-focused collection.",
+      "price": "$28.00",
+      "image_uri": "https://www.alexandani.com/cdn/shop/files/token-of-love-charm-bangle-1-AO250034RSG.jpg",
+      "key_features": [
+        "Love-themed symbolic charm",
+        "Expandable adjustable wire base",
+        "Gold finish",
+        "Ideal for gifting or self-purchase"
+      ]
+    },
+    {
+      "name": "'Love' Crystal Tennis Necklace",
+      "description": "A statement adjustable tennis necklace featuring sparkling cubic zirconia crystals with the word 'LOVE' as the focal centerpiece. Available in gold and silver.",
+      "price": "$48.00",
+      "image_uri": "https://cdn.shopify.com/s/files/1/0269/9558/9223/files/love-adjustable-tennis-necklace-1-AA820624SG.jpg",
+      "key_features": [
+        "Cubic zirconia crystal chain",
+        "Bold 'LOVE' letter focal point",
+        "Adjustable length",
+        "Available in gold and silver finishes"
+      ]
+    },
+    {
+      "name": "'Mama' Crystal Tennis Necklace",
+      "description": "A modern crystal tennis necklace spelling out 'MAMA' in sleek metal letters along a crystal-studded chain \u2014 a heartfelt gift for mothers.",
+      "price": "$44.00",
+      "image_uri": "https://cdn.shopify.com/s/files/1/0269/9558/9223/files/mama-adjustable-tennis-necklace-1-AA746524STG.jpg",
+      "key_features": [
+        "Crystal-studded chain construction",
+        "'MAMA' letter spelling in center",
+        "Adjustable clasp for versatile sizing",
+        "Gold tone finish"
+      ]
+    },
+    {
+      "name": "'Opportunity Is Everywhere' Open Tusk Cuff Bracelet",
+      "description": "A silver-tone stainless steel open cuff bracelet with tusk-shaped crystal-encrusted ends, engraved with the affirmation 'Opportunity Is Everywhere' on the interior.",
+      "price": "$17.90",
+      "image_uri": "https://cdn.shopify.com/s/files/1/0269/9558/9223/files/mantra-tusk-cuff-bracelet-opportunity-is-everywhere-2-AA1048924STS.jpg",
+      "key_features": [
+        "Crystal-encrusted tusk-shaped ends",
+        "Interior engraved affirmation message",
+        "Stainless steel construction",
+        "Open cuff design \u2014 easy on/off"
+      ]
+    },
+    {
+      "name": "'Attitude of Gratitude' Charm Bangle",
+      "description": "An inspirational charm bangle with the message 'Attitude of Gratitude', reminding wearers that everyday is a gift. A core affirmation piece from the brand's signature collection.",
+      "price": "$28.00",
+      "image_uri": "https://cdn.shopify.com/s/files/1/0269/9558/9223/products/Attitude-Gratitude-Charm-Bangle-Gold-Front-A21EBWAP8RG.jpg",
+      "key_features": [
+        "Gratitude-themed affirmation charm",
+        "Expandable wire bangle",
+        "Rafaelian gold finish",
+        "Part of the core affirmations collection"
+      ]
+    },
+    {
+      "name": "2025 Winter Snowflake Charm Bangle",
+      "description": "A limited edition 2025 bangle featuring a delicate tonal pink crystal snowflake charm paired with a '2025' year plaque. A collectible seasonal piece in silver and gold.",
+      "price": "$34.00",
+      "image_uri": "https://www.alexandani.com/cdn/shop/files/2025-black-friday-limited-edition-snowflake-bangle-1-AO250938FSS.jpg",
+      "key_features": [
+        "Limited edition 2025 seasonal design",
+        "Crystal snowflake charm with year plaque",
+        "Expandable wire construction",
+        "Available in shiny silver and gold finishes"
+      ]
+    },
+    {
+      "name": "PEEPS Chick and Bunny Beaded Bangle",
+      "description": "A fun licensed collaboration bangle featuring PEEPS chick and bunny beads on an expandable gold-tone wire. Part of the Spring/Easter 2026 PEEPS collection.",
+      "price": "$38.00",
+      "image_uri": "https://www.alexandani.com/cdn/shop/files/peeps-bunny-chick-beaded-bangle-2-AL260071SPSG.jpg",
+      "key_features": [
+        "Licensed PEEPS brand collaboration",
+        "Chick and bunny beaded design",
+        "Gold expandable wire base",
+        "Seasonal Spring/Easter collection"
+      ]
+    }
+  ]
+}

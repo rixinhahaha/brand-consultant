@@ -1,0 +1,79 @@
+{
+  "name": "Pandora",
+  "slug": "pandora",
+  "instagram": "@theofficialpandora",
+  "why": "The dominant global charm bracelet brand — directly competes on collectibility, gifting occasions, and the $30-$100 price band. Pandora's brand elevation strategy and BOGO mechanics are the primary competitive threat.",
+  "ad_types": [
+    {
+      "type": "High-Fashion Editorial Static — Black & White Brand Campaign",
+      "description": "Full-bleed monochromatic portrait photography featuring A-list talent (Winona Ryder, Iman, Chloe and Halle Bailey). Shot on dark or neutral backgrounds by photographers Fabien Baron and Craig McDean. Jewelry is the sole focal point with minimal or no text overlay.",
+      "why_it_works": "High-contrast monochrome signals luxury beyond the accessible price point. Celebrity talent functions as aspirational proxy. Lack of visual clutter forces attention to jewelry. Shareable, editorial format performs well for upper-funnel brand awareness."
+    },
+    {
+      "type": "Product Collection Carousel — Gift Guide / Seasonal Sale",
+      "description": "4-8 card swipeable carousel with individual charm/bracelet shots on clean white backgrounds. Cards organized by theme (Gifts Under $50, Holiday Charms). Each card has a short descriptor or price overlay, final card with CTA.",
+      "why_it_works": "Each card is independently engaging. Category-sorted carousels reduce gifting purchase anxiety. Enables retargeting of users who engage with multiple cards."
+    },
+    {
+      "type": "Influencer-UGC Reel — Charm Tour / GRWM / 'How I Stack'",
+      "description": "15-45 second vertical Reels featuring influencer partners doing charm tours, stacking demos, and unboxing hauls. Handheld or ring-lit selfie style. Tagged #PandoraPartner. Influencer Collective provides consistent pipeline from 80K-855K+ follower creators.",
+      "why_it_works": "UGC Reels achieve 3.2% average engagement vs 1.1% for static. Charm storytelling taps core emotional proposition. Bypasses ad skepticism. Single viral Reel generated $683K+ MIV."
+    },
+    {
+      "type": "Celebrity Campaign Video Spot — Emotional Narrative (15-30s)",
+      "description": "Short-form cinematic video directed by notable directors (Roman Coppola). Features celebrity talent in narrative vignettes. Warm tones for holiday, cooler editorial tones for fashion. Product reveals are measured, jewelry sparkle emphasized.",
+      "why_it_works": "Emotional setup creates empathy bridge before product appears. Celebrity and director credits generate press pickup and earned media. Strong brand recall from narrative format."
+    },
+    {
+      "type": "Promotional / Sale Static Ad — Urgency + Price Hook",
+      "description": "Direct-response statics during sale events. Product on clean background with bold promotional headline ('Up to 50% Off', 'BOGO 50% Off'). Urgency language with time limits and 'while supplies last' framing.",
+      "why_it_works": "High-discount sale events (up to 60% off Black Friday) close purchase intent in retargeting. BOGO mechanic encourages charm stacking and higher AOV."
+    }
+  ],
+  "visual_style": "Two distinct visual registers: (1) high-fashion editorial — monochromatic B&W portrait photography, dramatic, fashion-magazine quality, talent-forward; (2) clean product-commercial — bright white backgrounds, soft directional studio lighting, jewelry centered for e-commerce clarity. Brand communicates warmth through talent expression and narrative, not set design. Overall warm with sterling silver and gold product tones.",
+  "hooks": [
+    "Emotional milestone / memory anchor — opens with meaningful moment before product ('Every charm tells your story')",
+    "Nostalgia + trend revival — TikTok/Reel openings like 'Pandora bracelets stopped being cool — and I need to bring them back'",
+    "Treat yourself / self-gifting empowerment — 'Don't wait for someone else to buy you a gift'",
+    "Urgency / promotional scarcity — 'Up to 50% off — ends Sunday' with countdown timers"
+  ],
+  "buyer_personas_targeted": [
+    "The Milestone Collector",
+    "The Gen Z Trend-Driven Collector",
+    "The Self-Expressive Personalizer",
+    "The Quiet Luxury Upgrader"
+  ],
+  "viral_patterns": [
+    "Meaning-First Charm Story",
+    "BOGO / Stack-to-Save Mechanic",
+    "Nostalgia Revival Wave",
+    "Price-Tier Gift Guide Carousel"
+  ],
+  "last_researched": "2026-02-22",
+  "organic_content_formats": [
+    "Charm tour Reels with personal meaning narration",
+    "UGC nostalgia revival content ('Bringing Back My Pandora')",
+    "Celebrity campaign behind-the-scenes",
+    "Seasonal gift guide posts"
+  ],
+  "content_cadence": {
+    "frequency": "Daily Instagram posts, 3-5x/week Reels, heavy email cadence during sale events",
+    "platforms": "Instagram (primary), TikTok (influencer-led), Facebook, YouTube",
+    "seasonal_peaks": "Black Friday, Valentine's Day, Mother's Day, Christmas"
+  },
+  "ugc_creator_strategy": {
+    "approach": "Influencer Collective program with consistent pipeline from 80K-855K+ follower creators",
+    "content_types": "Charm tours, GRWM, stacking demos, unboxing hauls",
+    "tagging": "#PandoraPartner, #Sponsored",
+    "scale": "Macro and micro-influencer mix"
+  },
+  "creative_testing_patterns": {
+    "method": "Sequenced funnel: UGC/editorial Reel (awareness) -> Product carousel (retargeting) -> DPA (conversion)",
+    "documented_results": "Comparable brand ROAS lifted from 3x to 4.6x, CPM dropped 18%"
+  },
+  "spend_signals": {
+    "estimated_spend": "~$137K tracked via AdScan.ai",
+    "active_ads": "18 tracked ads, 9.1M combined views",
+    "channels": "Meta Ad Library, TV (holiday), YouTube, Connected TV"
+  }
+}

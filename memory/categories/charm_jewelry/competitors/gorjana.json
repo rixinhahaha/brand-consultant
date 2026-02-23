@@ -1,0 +1,78 @@
+{
+  "name": "Gorjana",
+  "slug": "gorjana",
+  "instagram": "@gorjana",
+  "why": "California-cool everyday jewelry brand competing on the aspirational layering/stacking aesthetic. Female athlete ambassador program and rare-sale urgency strategy set it apart. Competes on lifestyle positioning and accessible everyday gold jewelry.",
+  "ad_types": [
+    {
+      "type": "Athlete Ambassador Brand Film (TV + Paid Social)",
+      "description": "30-second polished video spots featuring professional female athletes (Jessica Pegula, Cameron Brink) wearing Gorjana across lifestyle settings. Intercuts extreme close-ups of jewelry with full-body lifestyle shots. Upbeat empowering music, no voiceover. Runs on ESPN, Meta, and Instagram Reels.",
+      "why_it_works": "Athletes function as aspirational proxies for active confident women 25-40. 360-degree distribution creates omnipresence. Campaign drove 45% sales lift in direct mail. Athletes who 'live in' the jewelry create credibility beyond celebrity-for-hire."
+    },
+    {
+      "type": "TikTok/Instagram UGC Influencer Haul + Discount Code Reel",
+      "description": "Creator-led 15-60 second videos of unboxing PR packages, trying on pieces, showing stacking combinations. Conversational tone, personal discount code revealed at end (e.g., PHOEBE20, LYDIA20). Filmed in natural settings with minimal editing.",
+      "why_it_works": "Personal discount code creates direct attribution loop while making viewer feel they get an exclusive deal. Haul format exploits unboxing dopamine pattern. UGC outperforms polished studio ads by 22% CTR in jewelry vertical."
+    },
+    {
+      "type": "Holiday/Sale Event Promotional Static + Carousel",
+      "description": "Paid static or multi-panel carousel during Black Friday, Cyber Monday, Mother's Day. Single hero product or curated gift set on clean white or warm background. Carousels show 4-8 products with price callouts. Urgency language and gift-positioning.",
+      "why_it_works": "During high-intent windows buyers are already shopping. Clean product-focused creative with clear pricing reduces friction. Gift-positioning maps product to emotional purchase occasion."
+    },
+    {
+      "type": "Lifestyle Reel — 'Jewelry for Every Aesthetic'",
+      "description": "15-30 second Instagram Reels showing pieces styled across different aesthetics — coastal California, athleisure, evening glam, casual boho. 'Which one fits you?' interactive question. Golden-hour California outdoor lighting with quick cuts synced to music.",
+      "why_it_works": "'Which aesthetic are you?' format exploits identity-based engagement. Drives high comments and saves boosting algorithmic reach. Shows how to style multiple pieces together increasing AOV."
+    },
+    {
+      "type": "Beach/Outdoor Brand Lifestyle TV Spot (repurposed for social)",
+      "description": "30-60 second brand video showing women wearing Gorjana at beach and casual settings. Tagline: 'California cool jewelry you'll live in, love always and layer every day.' Soft aspirational indie music. Cut into 6-15 second paid social versions.",
+      "why_it_works": "Establishes emotional brand equity before conversion ask. California coastal aesthetic is highly aspirational for target demo. Repurposing TV creative reduces production cost while maintaining quality."
+    }
+  ],
+  "visual_style": "Consistently warm, California coastal, and aspirational-but-accessible. Dominant aesthetic is golden-hour lifestyle photography — sun-drenched skin, layered gold jewelry, outdoor/beach settings. Production ranges from high-end brand film to lo-fi iPhone UGC, but both maintain warmth and approachability. Avoids cold, dark, or overtly luxury aesthetics. White backgrounds for product-only sale ads. Typography is minimal — thin sans-serif or simple serif. No heavy text overlays in brand content.",
+  "hooks": [
+    "Identity/Aesthetic Matching — 'gorjana has a piece for every aesthetic — which one fits you?'",
+    "Athlete/Lifestyle Aspiration — no-voiceover visual hook with Jessica Pegula on court, cuts to jewelry close-up",
+    "Urgency + Scarcity in Sale Ads — 'Gorjana is having a great sale — they NEVER have sales!'",
+    "UGC Reveal / Unboxing Hook — 'I just received the MOST gorgeous PR package from Gorjana...'"
+  ],
+  "buyer_personas_targeted": [
+    "The Milestone Collector",
+    "The Self-Expressive Personalizer",
+    "The Quiet Luxury Upgrader"
+  ],
+  "viral_patterns": [
+    "Yellow Friday color takeover (Kendra Scott — observed for comparison)",
+    "Micro-influencer charm-stacking Reels",
+    "Rare-Sale Urgency Framing"
+  ],
+  "last_researched": "2026-02-22",
+  "organic_content_formats": [
+    "Athlete ambassador lifestyle content",
+    "Jewelry for every aesthetic Reels",
+    "Beach/outdoor brand lifestyle videos",
+    "Creator haul and stacking content",
+    "Gift guide and bundle posts"
+  ],
+  "content_cadence": {
+    "frequency": "3-5x/week Instagram posts, regular Reels, Stories during sale events",
+    "platforms": "Instagram (primary), TikTok, ESPN CTV, YouTube",
+    "seasonal_peaks": "Black Friday/Cyber Monday, Mother's Day, holiday Q4"
+  },
+  "ugc_creator_strategy": {
+    "approach": "23+ active influencer discount codes at any given time. Codes distributed entirely through creators (not brand channels). Creator-mediated distribution model.",
+    "code_examples": "PHOEBE20, LYDIA20, nina100 — typically 20-25% off",
+    "content_types": "Unboxing hauls, try-on Reels, stacking demos",
+    "scale": "Primary always-on performance channel"
+  },
+  "creative_testing_patterns": {
+    "method": "Athlete ambassador content vs standard influencer content. TV spot repurposed into multiple social cut lengths (6s, 15s, 30s).",
+    "documented_results": "45% sales lift from Sports Club ambassador campaign direct mail tie-in"
+  },
+  "spend_signals": {
+    "channels": "ESPN CTV, Meta, Instagram, TikTok, direct mail catalogs",
+    "investment_areas": "Athlete ambassador program (TV + social), influencer discount code ecosystem, holiday promotional windows",
+    "notable": "Rare-sale strategy means concentrated spend during limited promotional windows. 23+ simultaneous influencer codes suggest significant affiliate/creator budget."
+  }
+}

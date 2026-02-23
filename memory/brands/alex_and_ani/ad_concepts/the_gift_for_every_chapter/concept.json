@@ -1,0 +1,70 @@
+{
+  "content_type": "Product-Forward Anniversary Gift Carousel",
+  "content_type_hook": "Deep warm gold background. '22 Years of Gifts That Last.' Sub-line: 'Charm jewelry made with meaning, since 2004.' No product on opening card.",
+  "why_it_works": "Life-moment gifting frameworks have the highest conversion rates for charm jewelry because they resolve the gift buyer's primary anxiety — 'does this mean something to her?' — before any product is shown. Opening on a brand statement rather than a product forces the viewer to swipe for the product, generating carousel engagement that the Meta algorithm rewards. Organizing by life moment ('For the New Mother,' 'For Her Next Chapter') provides immediate self-identification. Product always on skin rather than catalog-white aligns with the brand's stronger creative identity and prevents the ad from reading as a sale announcement.",
+  "campaign_intent": "brand anniversary (22 years, 2004–2026)",
+  "created_date": "2026-02-22",
+  "hashtags": [
+    "#AlexAndAni",
+    "#MeaningfulGifts",
+    "#22Years",
+    "#GiftIdeas",
+    "#CharmJewelry",
+    "#GiftsForHer",
+    "#BangleBracelet",
+    "#JewelryWithMeaning"
+  ],
+  "concept": {
+    "title": "The Gift for Every Chapter",
+    "format": "Carousel",
+    "storyboard": [
+      {
+        "scene": 1,
+        "visual": "Deep warm gold background with faint parchment texture. Centered typography only — no product. Large serif headline: '22 Years of Gifts That Last.' Below in smaller weight: 'Charm jewelry made with meaning, since 2004.' Bottom: '2004 — 2026.' No product imagery on this card.",
+        "audio_or_text": "No audio (carousel static). Text overlay: '22 Years of Gifts That Last / Charm jewelry made with meaning, since 2004 / 2004 — 2026'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 2,
+        "visual": "Mama Crystal Tennis Necklace ($44) on a woman's collarbone — close-up on skin, natural daylight from the side. The necklace rests naturally. Upper left: label 'FOR THE NEW MOTHER' in small clean sans-serif. Lower third: meaning line in serif.",
+        "audio_or_text": "Text overlay: 'FOR THE NEW MOTHER / Mama Crystal Tennis Necklace — $44 / A reminder that she holds everything together.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 3,
+        "visual": "Make Your Own Luck Ladybug Bangle ($38) on a wrist caught mid-gesture — arm moving, bangle slightly blurred with kinetic energy. Warm ambient light. Label 'FOR HER NEXT CHAPTER' upper left.",
+        "audio_or_text": "Text overlay: 'FOR HER NEXT CHAPTER / Make Your Own Luck Ladybug Bangle — $38 / Luck isn't found. It's made.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 4,
+        "visual": "Attitude of Gratitude Bangle ($28) on a wrist resting on a worn wooden surface, amber afternoon light from the side. Still, unhurried. Label 'FOR THE ONE YOU'RE GRATEFUL FOR' upper left.",
+        "audio_or_text": "Text overlay: 'FOR THE ONE YOU'RE GRATEFUL FOR / Attitude of Gratitude Bangle — $28 / Some people change everything. Tell her.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 5,
+        "visual": "Two wrists in the same frame — Token of Love Charm Bangle ($28) on the younger wrist (foreground), older wrist visible in the background, the hands nearly touching. Warm light. Label 'FOR THE ONE YOU LOVE WITHOUT WORDS' upper left.",
+        "audio_or_text": "Text overlay: 'FOR THE ONE YOU LOVE WITHOUT WORDS / Token of Love Charm Bangle — $28 / Love, worn. Every day.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 6,
+        "visual": "Glass Butterfly Beaded Charm Bangle ($38) on a wrist against a darker, richer background — deep warm shadow making the silver bangle glow. Most editorial card in the carousel. Label 'FOR HER QUIET TRANSFORMATION' upper left.",
+        "audio_or_text": "Text overlay: 'FOR HER QUIET TRANSFORMATION / Glass Butterfly Beaded Charm Bangle — $38 / The butterfly doesn't announce its change. Neither does she.'",
+        "duration_seconds": 3
+      },
+      {
+        "scene": 7,
+        "visual": "Three-bangle wrist stack shot — warm gold background returns (bookending Card 1). Bangles clearly visible, wrist at rest. CTA button below: 'Shop Now.' Brand name in clean serif: 'Alex and Ani.' Sub-line: 'Find the gift that means something.'",
+        "audio_or_text": "Text overlay: 'Find the gift that means something. / Shop the Alex and Ani Anniversary Collection.' CTA button: 'Shop Now'",
+        "duration_seconds": 3
+      }
+    ],
+    "copy": "22 years of charm jewelry with a reason behind every one. Find the gift that fits her story.",
+    "cta": "Shop the Anniversary Collection",
+    "reference": "Inspired by Pandora's gift-moment carousel format ('For Every Her') and Tiffany's 'For Every Occasion' gifting framework — adapted by replacing aspirational lifestyle photography with intimate skin-on-product shots and replacing price-leading copy with meaning-leading copy. The warm-gold brand color treatment draws from Mejuri's premium gifting carousel approach.",
+    "product_placement_notes": "Products must appear on skin in every product card — no white-background catalog shots, no flat-lay isolation. Mama Crystal Tennis Necklace: close collarbone shot, natural light. Make Your Own Luck Ladybug: wrist in motion, not static pose. Attitude of Gratitude: wrist on textured wooden surface, warm side-lighting. Token of Love: two wrists, foreground and background, near-touching hands — conveys relationship without requiring faces. Glass Butterfly: darker background to make silver glow — most editorial shot in the set. Final card: three-bangle stack, warm gold background returning to Card 1 visual.",
+    "talent_direction": "Women aged 25-60 across the carousel — each card can feature a different model if they share consistent skin-tone photography treatment and warm-light continuity. No faces required — all shots are wrist/collarbone-level. Wardrobe: simple, warm-toned, not distracting from jewelry. No nail art or competing jewelry in frame. Card 5 (Token of Love): two women, age gap visible, hands nearly but not quite touching — conveys mother/daughter or deep friendship without stating it."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Mejuri",
+  "slug": "mejuri",
+  "instagram": "@mejuri",
+  "why": "Leading DTC fine-for-everyday jewelry brand. Competes on the self-purchase narrative, UGC-driven acquisition (CAC dropped from $60+ to below $40), and quiet luxury positioning. Their trend-jacking promotional strategy and stack challenge virality are category benchmarks.",
+  "ad_types": [
+    {
+      "type": "UGC Micro-Influencer Reel",
+      "description": "Short-form vertical video (15-30 seconds) shot handheld by micro-influencer. Creator opens with styling moment, narrates daily-wear story, shows full stack. Lo-fi — shaky camera, natural room lighting. Ends with affiliate discount code and 'link in bio' CTA.",
+      "why_it_works": "Authenticity signal drives lower CAC. Mejuri documented CAC falling from $60+ to below $40 when UGC replaced studio content. Low production quality reads as organic. Discount code creates trackable urgency loop. 1.7x conversion lift vs studio video."
+    },
+    {
+      "type": "Lifestyle Close-Up Static Image Ad",
+      "description": "Single image of real-looking woman's hand, wrist, or collarbone in natural or golden-hour light. Jewelry is clear subject within lifestyle context (coffee cup nearby, linen backdrop). No heavy Photoshop. Minimal or no text on image, copy in caption.",
+      "why_it_works": "Stops scroll by looking like organic Instagram content rather than an ad. Showing product on skin lets buyer project themselves wearing it. Core bottom-of-funnel retargeting format."
+    },
+    {
+      "type": "Multi-Product Carousel (Gift/Stack Editorial)",
+      "description": "4-6 card carousel showing different products styled individually or as stack. Opening card has seasonal/thematic hook. Subsequent cards each feature one product with clean shot and brief copy. Final card is CTA. Discount badge during sale periods.",
+      "why_it_works": "Carousel drives higher dwell time with each swipe. Showing multiple products increases chance of taste match. 'Complete the stack' narrative triggers upsell behavior. Strong add-to-cart rate from retargeting audiences."
+    },
+    {
+      "type": "Cinematic Brand Video / Artsy Mini-Series",
+      "description": "Polished 30-60 second video with director-led aesthetic (Gia Coppola campaign). Shot on cinema camera with shallow DOF. Features real friend groups in casual intimate settings. Jewelry present but secondary to emotional narrative. Music-driven pacing.",
+      "why_it_works": "Builds brand equity and cultural credibility. Positions Mejuri alongside fashion editorial aesthetics. Ad Age named Coppola campaign 'Most Artsy Ad Campaign' 2024. Provides halo effect for concurrent conversion campaigns."
+    },
+    {
+      "type": "Promotional Sale / Event Reel with Urgency Overlay",
+      "description": "Short vertical video (10-20 seconds) during sale windows. Quick product beauty shot montage cut to upbeat music. Bold text overlay: '25% OFF SITEWIDE'. Trend-aware copy hooks (e.g., 'Girl Math is...'). Early access for Mejuri+ loyalty members.",
+      "why_it_works": "Urgency copy accelerates purchase decisions. Trend-aligned hooks make promotional message feel culturally native. Loyalty member early access drives email/SMS list growth."
+    }
+  ],
+  "visual_style": "Warm minimalism with quiet luxury sensibility. 'Clean girl' or 'everyday editorial' aesthetic — warm neutral backgrounds (cream, linen, sand), natural or golden-hour light, intentional lack of heavy production. Jewelry always shown on real body part (wrist, ear, collarbone), never on display stands. Light editing, slight warmth in grade, sharp focus on jewelry with soft backgrounds. UGC mode leans fully lo-fi: handheld shaky cam, ambient indoor lighting. Both modes coexist and reinforce each other's credibility.",
+  "hooks": [
+    "Self-treat permission opener — woman putting on jewelry with 'Fine jewelry for every day' or 'No occasion needed'",
+    "Trend-hijack copy hook — 'Girl math is... when everything's 20% off, not buying is kinda like losing money'",
+    "Stack challenge / 'show your stack' UGC opener — multiple layered pieces glinting, then naming each piece",
+    "Anti-occasion / rules reframe — 'History saved fine jewelry for big occasions. We disagree.'"
+  ],
+  "buyer_personas_targeted": [
+    "The Self-Expressive Personalizer",
+    "The Gen Z Trend-Driven Collector",
+    "The Quiet Luxury Upgrader"
+  ],
+  "viral_patterns": [
+    "Ring Stack / Charm Stack Challenge (TikTok duet format)",
+    "Girl Math promotional copy hook",
+    "Interactive Story Poll -> Offer retargeting"
+  ],
+  "last_researched": "2026-02-22",
+  "organic_content_formats": [
+    "Lo-fi GRWM jewelry stack Reels",
+    "Unboxing haul with affiliate code",
+    "Stack challenge / duet UGC",
+    "Cinematic brand mini-series",
+    "Interactive story polls"
+  ],
+  "content_cadence": {
+    "frequency": "Daily Instagram posts, 3-5x/week Reels, Stories with interactive polls, heavy email cadence during sales",
+    "platforms": "Instagram (primary), TikTok, Facebook, YouTube, Pinterest (shoppable boards), Connected TV",
+    "seasonal_peaks": "Black Friday/Cyber Monday, Valentine's Day, holiday Q4"
+  },
+  "ugc_creator_strategy": {
+    "approach": "Micro-influencer UGC as primary acquisition channel. Creator content replaces studio production. Affiliate codes for trackable attribution.",
+    "documented_results": "CAC dropped from $60+ to below $40. 1.7x conversion lift. 12% engagement on interactive variants.",
+    "challenge_mechanics": "Seeded stack challenges via 5-10 micro-influencers, generating 120+ fan videos in one week",
+    "scale": "UGC is the dominant paid creative format, not supplementary"
+  },
+  "creative_testing_patterns": {
+    "method": "UGC vs studio content A/B testing (UGC wins on CAC). Interactive story polls for product selection. Trend-jacking copy variants for promotional periods.",
+    "documented_results": "1.7x conversion lift from UGC. 12% engagement on polls (2x baseline). Girl Math campaign cited as standout DTC execution."
+  },
+  "spend_signals": {
+    "channels": "Meta (Instagram + Facebook), TikTok, Pinterest, Connected TV, OOH",
+    "investment_areas": "UGC micro-influencer Reels (primary), cinematic brand campaigns (periodic), promotional sale windows",
+    "notable": "Shifted budget from studio production to UGC with documented CAC reduction. Celebrity endorsement integration (Taylor Swift, Selena Gomez) in promotional content."
+  }
+}

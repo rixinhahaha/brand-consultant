@@ -1,0 +1,79 @@
+{
+  "name": "BaubleBar",
+  "slug": "baublebar",
+  "instagram": "@baublebar",
+  "why": "Dominant accessible fashion jewelry brand competing on personalization, charm customization, and IP collaborations (Disney, NFL). Aggressive promotional strategy with stacked discounts and strong TikTok/UGC presence.",
+  "ad_types": [
+    {
+      "type": "Facebook Dynamic Product Carousel (Cross-Sell)",
+      "description": "Multi-card carousel featuring 4-6 complementary jewelry pieces shown as a styled set or 'frequently bought together' bundle. Cards use clean product-on-white backgrounds with item name and price visible. Final card is a CTA slide. Powered by Meta Dynamic Ads with personalized recommendations.",
+      "why_it_works": "Directly boosts AOV by suggesting the full stack. Dynamic targeting means returning visitors see products they already viewed. Swipeable format invites discovery — users who came for earrings end up adding a charm bracelet."
+    },
+    {
+      "type": "Static Image Ad with Bold Urgency Text Overlay",
+      "description": "Single product or flat-lay shot with bold promotional text overlay. Copy uses hard urgency: 'Only 2 left!', 'Ends Tonight', 'Extra 50% Off Sale Styles', 'Doorbuster: $10'. BaubleBar logo and 'Shop Now' button at bottom.",
+      "why_it_works": "Scarcity and deadline copy triggers immediate action. Real-time stock data spikes conversion during promotional periods. Simple format is fast to produce and easy to A/B test."
+    },
+    {
+      "type": "Customization/Personalization Reel (TikTok and Instagram)",
+      "description": "Short-form vertical video (15-30 seconds) showing charm customization process. Open on bare bracelet/chain, quick cuts of charms being selected and added. Final shot is completed personalized piece on wrist. Heavy hashtag use.",
+      "why_it_works": "Personalization is BaubleBar's core growth driver. Process videos drive 3x replays vs finished product shots. 'Build your own' narrative pulls in self-expression audience."
+    },
+    {
+      "type": "UGC Creator / Influencer Try-On Reel",
+      "description": "Creator-led vertical video in casual authentic style. Creator addresses camera with product hook. Common formats: GRWM, unboxing hauls, charm bracelet collections. Creator uses personal promo code in caption and overlay.",
+      "why_it_works": "Trust-based format. 92% of marketers confirm UGC boosts trust. Personal promo code creates attribution clarity while building urgency. Scales reach without studio production."
+    },
+    {
+      "type": "Licensed IP Collection Announcement (Disney / NFL Static and Carousel)",
+      "description": "Product launch creative for co-branded collections. Static hero image shows licensed character/logo integrated into jewelry. Carousels walk through full collection by theme. Limited-edition framing creates urgency without discount.",
+      "why_it_works": "Leverages existing fanbases. BaubleBar's sports division grew 100% YoY. Cultural moment alignment drives earned media alongside paid reach."
+    }
+  ],
+  "visual_style": "Bright, playful, and maximalist — 'Embellish Every Day.' Ad creative leans into color saturation, vivid jewelry close-ups, and aspirational-but-accessible lifestyle aesthetic. Warm-lit with natural or studio softbox lighting. Between editorial fashion and approachable lifestyle. Product-forward layouts with jewelry filling majority of frame. Bold sans-serif text overlays prioritizing readability. Licensed IP ads adopt partner's color world while retaining BaubleBar's energetic style.",
+  "hooks": [
+    "Personalization process reveal — opens on bare chain, immediately shows customization action",
+    "Hard discount urgency open — 'Extra 50% off sale styles — today only' as the first visual frame",
+    "Creator identity hook — 'I need to show you what just arrived from BaubleBar because I've been wearing this every single day'",
+    "Aspirational stack / layer reveal — bare wrist, slow-motion layering of charm bracelets one at a time"
+  ],
+  "buyer_personas_targeted": [
+    "The Self-Expressive Personalizer",
+    "The Gen Z Trend-Driven Collector",
+    "The Milestone Collector"
+  ],
+  "viral_patterns": [
+    "Charm build process video",
+    "Stack layer-by-layer reveal",
+    "IP collab drop announcement",
+    "Flash sale countdown Stories"
+  ],
+  "last_researched": "2026-02-22",
+  "organic_content_formats": [
+    "Charm customization process Reels",
+    "Stack and layer showcase carousels",
+    "IP collection launch announcements",
+    "Creator UGC try-on content",
+    "Flash sale countdown Stories"
+  ],
+  "content_cadence": {
+    "frequency": "Daily Instagram posts, heavy Reels output, Stories during sale windows",
+    "platforms": "Instagram (primary), TikTok, Facebook, Pinterest",
+    "promotional_peaks": "Presidents Day, Black Friday, Cyber Monday, holiday season, IP collection drops"
+  },
+  "ugc_creator_strategy": {
+    "approach": "Micro and mid-tier influencer program with unique creator discount codes (BETHENNY15, MAYCE)",
+    "distribution": "Dedicated influencer/promo landing page for code distribution",
+    "content_types": "GRWM, unboxing hauls, charm collection showcases, try-on Reels",
+    "scale": "Multiple active creator codes at any given time"
+  },
+  "creative_testing_patterns": {
+    "method": "A/B testing urgency copy variants on static ads ('Only 2 left' vs 'Ends Tonight'). Dynamic product carousel personalization via Meta catalog.",
+    "formats_tested": "Static urgency ads, DPA carousels, UGC Reels"
+  },
+  "spend_signals": {
+    "channels": "Meta (Facebook + Instagram), TikTok",
+    "investment_areas": "Dynamic product carousels, urgency statics during sale events, UGC creator content",
+    "notable": "Heavy stacked-discount promotional strategy (up to 80% off) suggests aggressive performance marketing budget"
+  }
+}
