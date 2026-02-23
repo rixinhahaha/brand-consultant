@@ -1,5 +1,11 @@
 """
 Tests for memory.py — save/load round-trips for all model types and slugify edge cases.
+
+Usage:
+    pytest tests/                     # run all tests
+    pytest tests/test_memory.py       # run just memory tests
+    pytest tests/test_memory.py -v    # verbose output
+    pytest tests/test_memory.py -k "TestSlugify"  # run a single test class
 """
 
 import shutil

@@ -56,6 +56,19 @@ python main.py
 python media_production.py
 ```
 
+## Testing
+
+```bash
+# Run all tests
+.venv/bin/pytest tests/ -v
+
+# Run a specific test file
+.venv/bin/pytest tests/test_memory.py -v
+
+# Run a single test class or test
+.venv/bin/pytest tests/test_memory.py -k "TestSlugify"
+```
+
 ## Architecture Overview
 
 ```
@@ -274,6 +287,10 @@ brand-agency/
 ├── requirements.txt
 ├── .env                                  # API keys (not committed)
 ├── CLAUDE.md                             # Project rules for Claude Code
+│
+├── tests/
+│   ├── conftest.py                       # Adds project root to sys.path
+│   └── test_memory.py                    # Memory save/load round-trip tests
 │
 ├── agents/
 │   ├── brand_consulting/
