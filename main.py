@@ -44,17 +44,17 @@ def _lenient_parse_message(data: dict) -> object:
 
 _msg_parser.parse_message = _lenient_parse_message
 
-from agents.brand_consultant import ALL_AGENTS, BRAND_CONSULTANT_PROMPT
+from agents.brand_consulting.brand_consultant import ALL_AGENTS, BRAND_CONSULTANT_PROMPT
+from memory import slugify, load_brand_ad_audit, load_category_memory, list_known_brands, list_brand_concepts
 
 PROJECT_DIR = Path(__file__).resolve().parent
-SESSIONS_DIR = PROJECT_DIR / "sessions"
 
 
 def print_banner() -> None:
     print("\n\033[1;97m" + "=" * 60)
     print("   AD CONTENT GENERATOR — Multi-Agent (Claude Agent SDK)")
     print("=" * 60 + "\033[0m")
-    print("  Brand research → Ad audit → Competitor analysis → Concepts → Production prompts\n")
+    print("  Brand research → Ad audit → Competitor analysis → Concepts\n")
 
 
 def print_message(text: str) -> None:
@@ -75,25 +75,98 @@ def print_system_event(subtype: str, data: dict) -> None:
 
 
 async def run() -> None:
-    SESSIONS_DIR.mkdir(exist_ok=True)
-
     print_banner()
 
-    brand_url = input("  \033[1mBrand URL:\033[0m ").strip()
-    if not brand_url:
-        print("  Please provide a brand URL.")
+    # ── Smart onboarding: show existing brands or onboard new ──
+    known_brands = list_known_brands()
+    brand_url = ""
+    brand_slug = ""
+    brand_memory = None
+    brand_ad_audit = None
+    category_memory = None
+
+    if known_brands:
+        print("  \033[1mYour brands:\033[0m")
+        for i, mem in enumerate(known_brands, 1):
+            sessions_label = f" · {mem.category_slug}"
+            print(f"    {i}. {mem.brand.name} ({mem.brand.category}){sessions_label} — last updated {mem.last_updated}")
+        print(f"    {len(known_brands) + 1}. Onboard a new brand")
+        print()
+
+        choice = input("  \033[1mSelect a brand:\033[0m ").strip()
+
+        selected_brand = None
+        if choice.isdigit():
+            idx = int(choice)
+            if 1 <= idx <= len(known_brands):
+                selected_brand = known_brands[idx - 1]
+            elif idx == len(known_brands) + 1:
+                pass  # fall through to new brand URL prompt
+            else:
+                print("  Invalid selection.")
+                sys.exit(1)
+        else:
+            print("  Please make a selection.")
+            sys.exit(1)
+
+        if selected_brand:
+            brand_slug = slugify(selected_brand.brand.name)
+            brand_memory = selected_brand
+            brand_ad_audit = load_brand_ad_audit(brand_slug)
+            if brand_memory.category_slug:
+                category_memory = load_category_memory(brand_memory.category_slug)
+            print(f"\n  \033[92mLoaded {brand_memory.brand.name}\033[0m")
+
+    if not brand_memory:
+        brand_url = input("  \033[1mBrand URL:\033[0m ").strip()
+        if not brand_url:
+            print("  Please provide a brand URL.")
+            sys.exit(1)
+
+    if not brand_slug and brand_url:
+        brand_slug = slugify(brand_url.rstrip("/").split("/")[-1].replace(".com", "").replace("www.", ""))
+
+    campaign_intent = input("  \033[1mCampaign intent:\033[0m ").strip()
+    if not campaign_intent:
+        print("  Please provide a campaign intent (e.g., 'self-gifting ritual', 'summer launch').")
         sys.exit(1)
 
-    campaign_intent = input("  \033[1mCampaign intent\033[0m (optional): ").strip()
+    # ── Load existing concepts from memory ──
+    ad_concepts_dir = PROJECT_DIR / "memory" / "brands" / brand_slug / "ad_concepts"
+    existing_concepts = list_brand_concepts(brand_slug)
+    existing_concepts_summary = ""
+    if existing_concepts:
+        lines = []
+        for c in existing_concepts:
+            lines.append(f"- [{c.content_type}] \"{c.concept.title}\" ({c.concept.format}) — {c.campaign_intent} ({c.created_date})")
+        existing_concepts_summary = "\n".join(lines)
+        print(f"  \033[90mFound {len(existing_concepts)} existing concepts in library\033[0m")
 
-    depth_input = input("  \033[1mResearch depth\033[0m [light / medium / heavy] (default: medium): ").strip().lower()
-    depth_map = {"l": "light", "m": "medium", "h": "heavy", "light": "light", "medium": "medium", "heavy": "heavy"}
-    research_depth = depth_map.get(depth_input, "medium")
-
-    initial_prompt = f"Analyze this brand and create an ad content playbook: {brand_url}"
-    if campaign_intent:
+    # ── Build initial prompt ──
+    if brand_memory:
+        initial_prompt = f"Create an ad content playbook for {brand_memory.brand.name}."
         initial_prompt += f"\n\nCampaign intent: {campaign_intent}"
-    initial_prompt += f"\n\nResearch depth: {research_depth}"
+        initial_prompt += f"\n\n## Existing Brand Memory (brand_slug: {brand_slug})\n"
+        initial_prompt += brand_memory.model_dump_json(indent=2)
+
+        if brand_ad_audit:
+            initial_prompt += f"\n\n## Existing Ad Audit (last updated: {brand_ad_audit.last_updated})\n"
+            initial_prompt += brand_ad_audit.model_dump_json(indent=2)
+
+        if category_memory:
+            initial_prompt += f"\n\n## Existing Category Memory (category_slug: {brand_memory.category_slug})\n"
+            initial_prompt += category_memory.model_dump_json(indent=2)
+    else:
+        initial_prompt = f"Analyze this brand and create an ad content playbook: {brand_url}"
+        initial_prompt += f"\n\nCampaign intent: {campaign_intent}"
+        initial_prompt += "\n\nNo existing memory found for this brand. This is a fresh session."
+
+    initial_prompt += f"\n\n## Ad Concepts Directory\n{ad_concepts_dir}"
+
+    if existing_concepts_summary:
+        initial_prompt += f"\n\n## Existing Concepts in Library ({len(existing_concepts)} concepts)\n{existing_concepts_summary}"
+    else:
+        initial_prompt += "\n\n## Existing Concepts in Library\nNo existing concepts found."
 
     def _stderr_handler(line: str) -> None:
         print(f"  \033[90m[cli] {line.rstrip()}\033[0m", file=sys.stderr)
@@ -131,7 +204,8 @@ async def run() -> None:
             if not user_input:
                 continue
             if user_input.lower() in ("exit", "quit"):
-                print("\n  \033[92mSession ended. Check sessions/ for your ad concepts and production prompts.\033[0m\n")
+                print(f"\n  \033[92mSession ended. Your concepts are in memory/brands/{brand_slug}/ad_concepts/.\033[0m")
+                print(f"  \033[92mTo produce media, run: python media_production.py\033[0m\n")
                 break
 
             await client.query(user_input)
