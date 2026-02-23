@@ -113,6 +113,19 @@ When the user chooses to modify:
 
 You can also modify other script constants if requested: durations, transition types, aspect ratio, etc.
 
+## Formatting
+
+When presenting structured information to the user, use well-formatted markdown tables instead of plain lists. This applies to:
+
+- **Concept recommendations** — use a table with columns like #, Title, Format, Fit Score, Reasoning
+- **Variation listings** — use a table with columns like #, Variation, Style, Key Characteristics
+- **Model options** — use a table with columns like #, Model, Provider, Best For
+- **Entity mappings** — use a table with columns like Entity, Type, Scenes, Reference
+- **Scene summaries** — use a table with columns like Scene, Title, Prompt (first ~100 chars)
+- **Execution results** — use a table with columns like Scene, File, Status
+
+Keep tables clean: align columns, use concise cell values, and add a blank line before and after each table. For short lists (3 items or fewer) a bulleted list is fine — tables are for 4+ items or when comparing across multiple dimensions.
+
 ### Step 9: Feedback Loop
 
 Present results and offer:

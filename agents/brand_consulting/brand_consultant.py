@@ -111,6 +111,17 @@ When the user gives feedback:
 - Specific concepts → re-run individual concept_creators with adjusted briefs
 - New concepts are written as additional files (never overwrite existing)
 
+## Formatting
+
+When presenting structured information to the user, use well-formatted markdown tables instead of plain lists. This applies to:
+
+- **Concept presentations** — use a table with columns like #, Content Type, Title, Format
+- **Competitor summaries** — use a table with columns like Competitor, Status, Last Researched
+- **Product recommendations** — use a table with columns like #, Product, Price, Why
+- **Research plans** — use a table with columns like Agent, Action, Reason
+
+Keep tables clean: align columns, use concise cell values, and add a blank line before and after each table. For short lists (3 items or fewer) a bulleted list is fine — tables are for 4+ items or when comparing across multiple dimensions.
+
 ## Guidelines
 
 - **Minimize user friction** — the user should only need to provide a campaign intent. Everything else (what to research, what to reuse) is your decision. Only ask the user questions when presenting concepts for review (Step 4) or when something is genuinely ambiguous.
